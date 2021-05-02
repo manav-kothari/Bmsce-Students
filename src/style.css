@@ -1,0 +1,96 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+.cards {
+  border-radius: 4px;
+
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08), 0 0 6px rgba(0, 0, 0, 0.05);
+  transition: 0.3s transform cubic-bezier(0.155, 1.105, 0.295, 1.12),
+    0.3s box-shadow,
+    0.3s -webkit-transform cubic-bezier(0.155, 1.105, 0.295, 1.12);
+  padding: 14px 80px 18px 36px;
+  cursor: pointer;
+}
+
+.cards:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
+}
+.card-img-top {
+  width: 100%;
+  height: 50vh;
+}
+
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+.eventphoto {
+  width: 100%;
+  max-width: 325px;
+  height: auto;
+}
+
+.updatephoto {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
+.note-card-img-top {
+  width: 100%;
+  height: 35vh;
+}
+
+.blink_me {
+  animation: blinker 2s linear infinite;
+}
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+}
+
+.video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60%;
+  border: 0;
+}
+
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+  .video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  .vt {
+    display: inherit;
+  }
+}
+
+@media only screen and (min-width: 700px) {
+  .vt {
+    display: none;
+  }
+}
