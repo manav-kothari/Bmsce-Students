@@ -5,7 +5,7 @@ const ComingSoon = () => {
     <>
       {" "}
       <div className="aler alert-info text-center blink_me p-3 my-5 text-capitalize h1 text-dark">
-        Notes Coming Soon...
+        Coming Soon...
       </div>
       <div className="p-4 text-center">
         If you are having any notes or links related to your course then kindly{" "}
