@@ -26,7 +26,7 @@ const updates = [
         <br />
         We just Need PASSION, ENTHUSIASM & HARD-WORK from you!
         <br />
-        If you are willing to give this...Pls fill the form👇 <br />{" "}
+        If you are willing to give this... please fill the form👇 <br />{" "}
         <a href="https://bmscehackingclub.typeform.com/to/OqK8nusX">
           <button className="btn-info">FORM</button>
         </a>{" "}
