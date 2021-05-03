@@ -55,6 +55,34 @@ const events = [
     ),
   },
   {
+    _id: "5",
+    name: "Webinar on Industrial Skill Development and Summer Internship 2021",
+    image: "/images/events/ieee.jpg",
+    description: (
+      <p>
+        Greetings from BMSCE IEEE!
+        <br />
+        BMSCE IEEE in collaboration with Tequed Labs is hosting a webinar on
+        Industrial Skill Development and Summer Internship 2021.
+        <br />
+        FREE Bonus Courses for all the attendees who register for the summer
+        program.
+        <br />
+        When: 5th May, 2021 <br />
+        Time: 4:00PM to 4:30PM <br />
+        It is open to everyone from all branches! <br />
+        Register in advance for the webinar and also join the WhatsApp group:{" "}
+        <br />{" "}
+        <a href="https://linktr.ee/bmsceieee">
+          <button className="btn-info">LINK</button>
+        </a>{" "}
+        <br />
+        After registering, you will receive a confirmation email containing
+        information about the meeting.
+      </p>
+    ),
+  },
+  {
     _id: "3",
     name: "BMSCE DANCE CREW AUDITIONS",
     image: "/images/events/dance0505.jpg",
