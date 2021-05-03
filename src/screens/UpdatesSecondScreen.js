@@ -10,6 +10,31 @@ const UpdatesHomeScreen = () => {
         <Col sm={12} md={6} lg={4} xl={4}>
           <Card className="my-2 p-2 mx-2  rounded cards">
             <Card.Body className="text-center p-2">
+              <a style={{ color: "#000" }} href={`/update/4`}>
+                <Card.Title>
+                  <strong style={{ color: "#000" }} className="text-dark">
+                    Hacking Club has decided to make a to make a Proper
+                    fully-fledged Hacking Cell consisting of Max 10 folks.
+                  </strong>
+                </Card.Title>
+              </a>
+              <a style={{ color: "#000" }} href={`/update/4`}>
+                <Button
+                  style={{ backgroundColor: "#000" }}
+                  className="text-capitalize btn-block custom-btn"
+                >
+                  Read More
+                </Button>
+              </a>
+            </Card.Body>
+          </Card>
+        </Col>
+
+        {/****************************************************************************************************/}
+
+        <Col sm={12} md={6} lg={4} xl={4}>
+          <Card className="my-2 p-2 mx-2  rounded cards">
+            <Card.Body className="text-center p-2">
               <a style={{ color: "#000" }} href={`/update/3`}>
                 <Card.Title>
                   <strong style={{ color: "#000" }} className="text-dark">

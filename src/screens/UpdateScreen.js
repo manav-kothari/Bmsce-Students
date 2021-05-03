@@ -22,6 +22,7 @@ const UpdateScreen = ({ match }) => {
           alt={update.title}
         />
       </div>
+      <div className="p-4 text-center">{update.description}</div>
     </>
   );
 };
