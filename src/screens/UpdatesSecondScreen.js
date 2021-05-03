@@ -13,7 +13,7 @@ const UpdatesHomeScreen = () => {
               <a style={{ color: "#000" }} href={`/update/4`}>
                 <Card.Title>
                   <strong style={{ color: "#000" }} className="text-dark">
-                    Hacking Club has decided to make a a Proper fully-fledged
+                    Hacking Club has decided to make a Proper fully-fledged
                     Hacking Cell consisting of Max 10 folks.
                   </strong>
                 </Card.Title>
