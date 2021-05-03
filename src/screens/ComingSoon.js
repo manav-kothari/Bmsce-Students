@@ -13,6 +13,10 @@ const ComingSoon = () => {
           <button className="btn-danger">DM</button>
         </a>{" "}
         us or mail us at: <p className="text-info">bmscestudents@gmail.com</p>
+        <small>
+          ( Credits will be given to whosoever share the study material in the
+          credit list. )
+        </small>
       </div>
     </>
   );
