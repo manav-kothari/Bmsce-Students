@@ -41,7 +41,7 @@ const events = [
         PRAVRUTTHI AUDITIONS 🎭 The world is going online, so why not us? Yes
         the auditions for the year 2021 will be online!
         <br />
-        All you have to do is submit your materials by 2nd May.
+        All you have to do is submit your materials by 4th May.
         <br />
         Act must be less than 2 minutes
         <br />
