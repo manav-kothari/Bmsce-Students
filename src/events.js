@@ -32,28 +32,28 @@ const events = [
   //     </p>
   //   ),
   // },
-  {
-    _id: "2",
-    name: "PRAVRUTTHI AUDITIONS",
-    image: "/images/events/pravruthi0205.jpg",
-    description: (
-      <p>
-        PRAVRUTTHI AUDITIONS 🎭 The world is going online, so why not us? Yes
-        the auditions for the year 2021 will be online!
-        <br />
-        All you have to do is submit your materials by 4th May.
-        <br />
-        Act must be less than 2 minutes
-        <br />
-        Script must be minimum of 2 pages
-        <br />
-        Detailed information, fill the{" "}
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSf1Au3puogH9RpWToTRhWfFqgvJxPx_PTUZ9F6HfzcrFVnz1Q/viewform">
-          <button className="btn-info">form</button>
-        </a>{" "}
-      </p>
-    ),
-  },
+  // {
+  //   _id: "2",
+  //   name: "PRAVRUTTHI AUDITIONS",
+  //   image: "/images/events/pravruthi0205.jpg",
+  //   description: (
+  //     <p>
+  //       PRAVRUTTHI AUDITIONS 🎭 The world is going online, so why not us? Yes
+  //       the auditions for the year 2021 will be online!
+  //       <br />
+  //       All you have to do is submit your materials by 4th May.
+  //       <br />
+  //       Act must be less than 2 minutes
+  //       <br />
+  //       Script must be minimum of 2 pages
+  //       <br />
+  //       Detailed information, fill the{" "}
+  //       <a href="https://docs.google.com/forms/d/e/1FAIpQLSf1Au3puogH9RpWToTRhWfFqgvJxPx_PTUZ9F6HfzcrFVnz1Q/viewform">
+  //         <button className="btn-info">form</button>
+  //       </a>{" "}
+  //     </p>
+  //   ),
+  // },
   {
     _id: "5",
     name: "Webinar on Industrial Skill Development and Summer Internship 2021",
@@ -122,29 +122,45 @@ const events = [
       </p>
     ),
   },
+
   {
     _id: "4",
     name: "Lime Green Team is back",
-    image: "/images/events/gratitude.jpg",
+    image: "/images/events/rotaad.jpg",
     description: (
       <p>
-        Hola everybody!
+        As we all know this year isn't normal to any of us, We have seen our
+        loved ones suffer and a lot of people go through a tough phase. We know
+        it's hard to deal with or express the fear and stress each one of us is
+        going through, but don't worry! We heard you.
         <br />
-        Lime Green Team is back with some exciting events planned out for the
-        next 30 days
-        <br />
-        This month, We are going to practice and celebrate Gratitude
-        <br />
-        Wondering what's in store for y'all?? Stay Tuned for some exciting
-        challenges and fun activities
-        <br />
-        Team Lime Green
-        <br />
-        RCBMSY
-        <br />
-        <a className="text-info" href="https://www.instagram.com/rota_bms/">
-          @rota_bms
+        The Lime Green Team of RCBMSY have come up with the second version of
+        "Anxiety and Depression" session under the banner of "Step In and Up
+        2.0" by our psychologist
+        <a
+          className="text-info"
+          href="https://www.instagram.com/_wellness_within_/"
+        >
+          {" "}
+          @_wellness_within_
         </a>
+        <br />
+        One's mental health needs a lot of attention right now as it is
+        something that isn't easy to get through.Our speaker is here to address
+        all your concerns and also teach us on how to handle the present
+        situation.
+        <br />
+        Please don't miss this opportunity.
+        <br />
+        Looking forward to have y'all with us ❤️
+        <br />
+        DATE : 9th May
+        <br />
+        TIME : 4pm
+        <br />
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSecw5n9UXnviEHOr48wYcSZwNVcqT3vX2-FBsUO0S-M-Jk1uw/viewform">
+          <button className="btn-info">FORM</button>
+        </a>{" "}
       </p>
     ),
   },
