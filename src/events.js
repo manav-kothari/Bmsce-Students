@@ -90,7 +90,7 @@ const events = [
   },
   {
     _id: "3",
-    name: "BMSCE DANCE CREW AUDITIONS",
+    name: "Fundamentals of Digital Marketing",
     image: "/images/events/inovact2.jpeg",
     description: (
       <p>
