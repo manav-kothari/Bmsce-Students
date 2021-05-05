@@ -56,76 +56,76 @@ const events = [
   // },
   {
     _id: "5",
-    name: "Webinar on Industrial Skill Development and Summer Internship 2021",
-    image: "/images/events/ieee.jpg",
+    name: "Learn to design a PCB from scratch",
+    image: "/images/events/inovact1.jpeg",
     description: (
       <p>
-        Greetings from BMSCE IEEE!
+        As Electronic devices are getting compact, PCB designing is gaining more
+        importance and popularity.
         <br />
-        BMSCE IEEE in collaboration with Tequed Labs is hosting a webinar on
-        Industrial Skill Development and Summer Internship 2021.
+        Learn to design a PCB from scratch as per Industry Standards from the
+        webinar offered by Inovact on PCB DESIGN.
         <br />
-        FREE Bonus Courses for all the attendees who register for the summer
-        program.
+        Date:- 08/05/2021
         <br />
-        When: 5th May, 2021 <br />
-        Time: 4:00PM to 4:30PM <br />
-        It is open to everyone from all branches! <br />
-        Register in advance for the webinar and also join the WhatsApp group:{" "}
-        <br />{" "}
-        <a href="https://linktr.ee/bmsceieee">
-          <button className="btn-info">LINK</button>
+        Time:- 11:00AM- 1:30PM
+        <br />
+        Webinar fee:-₹49 ONLY
+        <br />
+        E-certificates will be provided for all participants.
+        <br />
+        Registration link to the webinar:- <br />
+        <a href="https://forms.gle/zenvqdzqW5EnL6Bs9">
+          <button className="btn-info">FORM</button>
         </a>{" "}
         <br />
-        After registering, you will receive a confirmation email containing
-        information about the meeting.
+        For any queries,contact:
+        <br />
+        Rahul : 9742168308
+        <br />
+        Nabil : 974041798
+        <br />
       </p>
     ),
   },
   {
     _id: "3",
     name: "BMSCE DANCE CREW AUDITIONS",
-    image: "/images/events/dance0505.jpg",
+    image: "/images/events/inovact2.jpeg",
     description: (
       <p>
-        •BMSCE DANCE CREW AUDITIONS• The wait is finally over!! <br />
-        Send in your dance videos to us by 5th of May to get a chance to be part
-        of the crew. <br />
-        It's a solo event. You can find the link below. <br />
-        Rules: <br />
-        1.Time limit 60 to 90 s <br />
-        2.No vulgarity <br />
-        3.Good quality videos with visible facial expressions and entire body
-        within the frame <br />
-        4. Only music can be edited. <br />
-        5.Video editing will be disqualified <br />
-        6.Upload the video to Google drive and make sure it has public access{" "}
+        Moving towards the era of digitisation, most businesses are turning
+        digital and E-commerce is gaining more popularity with time.
         <br />
+        Get Introduced to the world of Digital marketing and kick start this
+        career option with an exciting webinar offered by Inovact on
+        Fundamentals of Digital Marketing.
         <br />
-        For more information you can text us on our Instagram pages{" "}
-        <a className="text-info" href="https://www.instagram.com/danzaddix/">
-          @danzaddix
+        Date:- 09/05/2021
+        <br />
+        Time:- 11:00AM- 1:30PM
+        <br />
+        Webinar fee:- ₹79 ONLY
+        <br />
+        E-certificates will be provided for all participants.
+        <br />
+        Registration link to the webinar:
+        <a href="https://forms.gle/o6LMsR9uFrHQmBHf8">
+          <button className="btn-info">FORM</button>
         </a>{" "}
+        For any queries ,contact:
         <br />
-        <a
-          className="text-info"
-          href="https://www.instagram.com/paramvah_bmsce_official/"
-        >
-          @paramvah_bmsce_official
-        </a>{" "}
+        Rahul : 9742168308
         <br />
+        Nabil : 9740417986
         <br />
-        We are excited to seeing y'all dance!🕺💃🥳💘 <br />
-        <a href="https://forms.gle/gDaX2ECT25bfMKHx8">
-          <button className="btn-info">form</button>
-        </a>{" "}
       </p>
     ),
   },
 
   {
     _id: "4",
-    name: "Lime Green Team is back",
+    name: "Step In and Up 2.0",
     image: "/images/events/rotaad.jpg",
     description: (
       <p>
