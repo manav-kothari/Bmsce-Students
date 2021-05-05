@@ -57,7 +57,7 @@ const events = [
   {
     _id: "5",
     name: "Learn to design a PCB from scratch",
-    image: "/images/events/inovact1.jpeg",
+    image: "/images/events/inovact2.jpeg",
     description: (
       <p>
         As Electronic devices are getting compact, PCB designing is gaining more
@@ -91,7 +91,7 @@ const events = [
   {
     _id: "3",
     name: "Fundamentals of Digital Marketing",
-    image: "/images/events/inovact2.jpeg",
+    image: "/images/events/inovact1.jpeg",
     description: (
       <p>
         Moving towards the era of digitisation, most businesses are turning
