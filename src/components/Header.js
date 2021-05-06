@@ -3,7 +3,7 @@ import { Navbar, Nav } from "react-bootstrap";
 import { MdEventNote } from "react-icons/md";
 import { RiBookletFill } from "react-icons/ri";
 import { HiTrendingUp } from "react-icons/hi";
-import { IoIosChatbubbles } from "react-icons/io";
+// import { IoIosChatbubbles } from "react-icons/io";
 import logo from "../images/BMS_College_of_Engineering.svg";
 
 const Header = () => (
