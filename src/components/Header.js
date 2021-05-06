@@ -43,12 +43,12 @@ const Header = () => (
         >
           <RiBookletFill size={20} /> Notes
         </Nav.Link>
-        <Nav.Link
+        {/* <Nav.Link
           href="https://bmscestudentschat.herokuapp.com/"
           className="px-3 nav-link text-warning text-center font-weight-bold"
         >
           <IoIosChatbubbles size={20} /> Chat
-        </Nav.Link>
+        </Nav.Link> */}
       </Nav>
     </Navbar>
   </>
