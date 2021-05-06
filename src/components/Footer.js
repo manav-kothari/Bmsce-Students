@@ -16,7 +16,9 @@ const Footer = () => {
       </div>
 
       <div className="text-center h6">
-        <small>Copyright &copy; BMSCE Students</small>
+        <span>Developed by Manav Kothari</span>
+        <br />
+        {/* <small>Copyright &copy; BMSCE Students</small> */}
       </div>
     </footer>
   );
