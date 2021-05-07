@@ -52,13 +52,12 @@ const updates = [
         <br />
         Parjanya: 9737426927
         <br />
-        <br />
         Link for WhatsApp group: <br />{" "}
         <a href="https://chat.whatsapp.com/ERmW36s2lacBGcrNUa4Mvx">
           <button className="btn-success">WhatsApp Group</button>
         </a>{" "}
         <br />
-        Let's help spread awareness in these tough times :hugging:
+        Let's help spread awareness in these tough times
       </p>
     ),
   },
