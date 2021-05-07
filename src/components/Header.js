@@ -4,19 +4,19 @@ import { MdEventNote } from "react-icons/md";
 import { RiBookletFill } from "react-icons/ri";
 import { HiTrendingUp } from "react-icons/hi";
 // import { IoIosChatbubbles } from "react-icons/io";
-import logo from "../images/BMS_College_of_Engineering.svg";
+// import logo from "../images/BMS_College_of_Engineering.svg";
 
 const Header = () => (
   <>
     <Navbar variant="dark" style={{ background: "#000" }}>
       <Navbar.Brand href="/" className="mx-auto">
-        <img
+        {/* <img
           alt="BMS logo"
           src={logo}
           width="30"
           height="30"
           className="d-inline-block align-top"
-        />{" "}
+        />{" "} */}
         BMSCE Students
       </Navbar.Brand>
     </Navbar>

@@ -15,9 +15,9 @@ const Footer = () => {
         </a>
       </div>
 
-      <div className="text-center h6">
+      <div className="text-center h5">
         <span>Developed & Maintained by Manav Kothari</span>
-        <br />
+
         {/* <small>Copyright &copy; BMSCE Students</small> */}
       </div>
     </footer>
