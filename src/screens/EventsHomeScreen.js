@@ -14,7 +14,7 @@ const EventsHomeScreen = () => {
             <EventCardComponent event={event} />
           </Col>
         ))}
-        <Col sm={12} md={6} lg={4} xl={4} className="video-container mt-2">
+        {/* <Col sm={12} md={6} lg={4} xl={4} className="video-container mt-2">
           <iframe
             allowfullscreen="0"
             allowFullScreen="allowFullScreen"
@@ -35,7 +35,7 @@ const EventsHomeScreen = () => {
               <strong>Interactive Session with Startup Founders</strong>
             </h5>
           </div>
-        </Col>
+        </Col> */}
       </Row>
     </>
   );

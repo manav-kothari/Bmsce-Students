@@ -111,7 +111,7 @@ const events = [
     ),
   },
   {
-    _id: "5",
+    _id: "3",
     name: "Learn to design a PCB from scratch",
     image: "/images/events/inovact2.jpeg",
     description: (
@@ -145,7 +145,7 @@ const events = [
     ),
   },
   {
-    _id: "3",
+    _id: "4",
     name: "Fundamentals of Digital Marketing",
     image: "/images/events/inovact1.jpeg",
     description: (
@@ -180,7 +180,7 @@ const events = [
   },
 
   {
-    _id: "4",
+    _id: "5",
     name: "Step In and Up 2.0",
     image: "/images/events/rotaad.jpg",
     description: (
@@ -217,6 +217,49 @@ const events = [
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSecw5n9UXnviEHOr48wYcSZwNVcqT3vX2-FBsUO0S-M-Jk1uw/viewform">
           <button className="btn-info">FORM</button>
         </a>{" "}
+      </p>
+    ),
+  },
+
+  {
+    _id: "6",
+    name: "Want to be part of BMSCE's tech team CODELOCKED?",
+    image: "/images/events/codelock.jpeg",
+    description: (
+      <p>
+        Hey peeps,
+        <br />
+        Want to be part of BMSCE's tech team CODELOCKED? 🧑‍💻
+        <br />
+        👉So be ready, the recruitment process will be starting from Sunday, May
+        15, @5:00 PM. 🥳
+        <br />
+        <br />
+        👉The recruitment process will include 2 rounds. First will be Technical
+        Round where in you have to solve up certain questions regarding coding
+        and general technology. Based on the scores, you will be sorted for
+        Interview Round. The Technical Round will be online and on "Google
+        Forms".
+        <br />
+        The Interview Round will be on Google Meet. Fill the form given below to
+        join the WhatsApp group for more info:
+        <br />
+        <br />
+        📝{" "}
+        <a href="https://forms.gle/2CJB3Z8ajLgNeetL7">
+          <button className="btn-info">FORM</button>
+        </a>{" "}
+        <br />
+        Follow us on Instagram:
+        <a
+          className="text-info"
+          href="https://www.instagram.com/teamcodelocked/"
+        >
+          {" "}
+          @teamcodelocked
+        </a>{" "}
+        😉
+        <br />
       </p>
     ),
   },

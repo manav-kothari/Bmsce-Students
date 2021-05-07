@@ -10,6 +10,31 @@ const UpdatesHomeScreen = () => {
         <Col sm={12} md={6} lg={4} xl={4}>
           <Card className="my-2 p-2 mx-2  rounded cards">
             <Card.Body className="text-center p-2">
+              <a style={{ color: "#000" }} href={`/update/5`}>
+                <Card.Title>
+                  <strong style={{ color: "#000" }} className="text-dark">
+                    NSS Unit of BMSCE are looking for volunteers who would be
+                    willing to do poster designing / video editing to spread
+                    awareness about the COVID-19 protocols.
+                  </strong>
+                </Card.Title>
+              </a>
+              <a style={{ color: "#000" }} href={`/update/5`}>
+                <Button
+                  style={{ backgroundColor: "#000" }}
+                  className="text-capitalize btn-block custom-btn"
+                >
+                  Read More
+                </Button>
+              </a>
+            </Card.Body>
+          </Card>
+        </Col>
+        {/****************************************************************************************************/}
+
+        <Col sm={12} md={6} lg={4} xl={4}>
+          <Card className="my-2 p-2 mx-2  rounded cards">
+            <Card.Body className="text-center p-2">
               <a style={{ color: "#000" }} href={`/update/4`}>
                 <Card.Title>
                   <strong style={{ color: "#000" }} className="text-dark">

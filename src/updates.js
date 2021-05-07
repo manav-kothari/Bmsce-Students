@@ -33,6 +33,35 @@ const updates = [
       </p>
     ),
   },
+
+  {
+    _id: "5",
+    title:
+      "NSS Unit of BMSCE are looking for volunteers who would be willing to do poster designing / video editing to spread awareness about the COVID-19 protocols.",
+    image: "/images/updates/nss.jpg",
+    description: (
+      <p>
+        Greetings from NSS Unit of BMSCE!
+        <br />
+        We are looking for volunteers who would be willing to do poster
+        designing / video editing to spread awareness about the COVID-19
+        protocols. <br />
+        Interested people can contact-
+        <br />
+        Asshvin: 7892263289
+        <br />
+        Parjanya: 9737426927
+        <br />
+        <br />
+        Link for WhatsApp group: <br />{" "}
+        <a href="https://chat.whatsapp.com/ERmW36s2lacBGcrNUa4Mvx">
+          <button className="btn-success">WhatsApp Group</button>
+        </a>{" "}
+        <br />
+        Let's help spread awareness in these tough times :hugging:
+      </p>
+    ),
+  },
 ];
 
 export default updates;
