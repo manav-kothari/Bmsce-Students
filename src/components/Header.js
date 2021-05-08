@@ -25,21 +25,21 @@ const Header = () => (
       <Nav className="mx-auto">
         <Nav.Link
           href="/events"
-          className="px-3 py-auto nav-link text-danger text-center font-weight-bold"
+          className="px-4 py-auto nav-link text-danger text-center font-weight-bold"
         >
           <MdEventNote size={20} /> Events
         </Nav.Link>
 
         <Nav.Link
           href="/updates"
-          className="px-3 nav-link text-info text-center font-weight-bold"
+          className="px-4 nav-link text-info text-center font-weight-bold"
         >
           <HiTrendingUp size={20} /> Updates
         </Nav.Link>
 
         <Nav.Link
           href="/notes"
-          className="px-3 nav-link text-success text-center font-weight-bold"
+          className="px-4 nav-link text-success text-center font-weight-bold"
         >
           <RiBookletFill size={20} /> Notes
         </Nav.Link>

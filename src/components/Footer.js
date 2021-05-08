@@ -5,17 +5,17 @@ const Footer = () => {
   return (
     <footer className="text-center mx-auto">
       <div>
-        <span>Contact Us: </span>
+        <small>Contact Us: </small>
         <GrMail className="text center" />{" "}
         <a
           className="text-dark text-center"
           href="https://mail.google.com/mail/u/?authuser=bmscestudents@gmail.com"
         >
-          bmscestudents@gmail.com
+          <small>bmscestudents@gmail.com</small>
         </a>
       </div>
 
-      <div className="text-center h5">
+      <div className="text-center h6">
         <span>Developed & Maintained by Manav Kothari</span>
 
         {/* <small>Copyright &copy; BMSCE Students</small> */}
