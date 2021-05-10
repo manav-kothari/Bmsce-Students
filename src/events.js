@@ -1,44 +1,58 @@
 const events = [
-  // {
-  //   _id: "1",
-  //   name: "A Business Model Canvas",
-  //   image: "/images/events/iic.jpg",
-  //   description: (
-  //     <p>
-  //       Greetings from BMSCE IIC, the start-up cell of B.M.S College of
-  //       Engineering!😃
-  //       <br />
-  //       Got a new business idea or an entrepreneurial dream, but don't know how
-  //       to put it to work? Here's the good news! BMSCE IIC in collaboration with
-  //       the IVY Club, brings to you a project-centred course, where participants
-  //       will use the Business Model Canvas innovation tool to approach a
-  //       business idea.💫
-  //       <br />
-  //       A business model canvas is a quick-start alternative to a business plan.
-  //       It helps you think through the most important aspects of startup—such as
-  //       your product or service, your target market, and the resources you'll
-  //       need to launch—in a brief chart format
-  //       <br />
-  //       🔹️By the end of the session participants will be able to identify and
-  //       communicate the nine key elements of a business model: ``Customer
-  //       Segments, Value Proposition, Channels, Customer Relationships, Key
-  //       Resources, Key Activities, Key Partners, Revenue Streams and Cost
-  //       Structure`` and develop their very own projects!!🌟
-  //       <br />
-  //       Course Instructor: Nida Sahar, Founder Nife, Alumni IIMB, BMSCE
-  //       <br />
-  //       Date: *7th May*,2021
-  //       <br />
-  //       Time🕕: *6 to 8 PM*
-  //       <br />
-  //       Open to all !!🎉
-  //       <br /> Join:
-  //       <a href="https://chat.whatsapp.com/IUmc6HCcHl6JcwZb9aP0ch">
-  //         <button className="btn-success">WhatsApp Group</button>
-  //       </a>{" "}
-  //     </p>
-  //   ),
-  // },
+  {
+    _id: "1",
+    name: "Events from IEEE",
+    image: "/images/events/ieee.png",
+    description: (
+      <p>
+        Greetings from BMSCE IEEE!
+        <br />
+        "An Investment in knowledge pays the best interests."
+        <br />
+        Keeping with the constant changes in technology can be quite a herculean
+        task. Fret not! BMSCE IEEE SB in collaboration with BMSCE IEEE PES is
+        proud to present the SIGs!
+        <br />
+        Taking into consideration your opinions, we will be having the following
+        SIGs for this semester: <br />
+        1. Python basics <br />
+        2. Python Advanced <br />
+        3. Intro to Fusion 360 <br />
+        4. Arduino <br />
+        5. Public Speaking <br />
+        <br />
+        • The registration for the SIGs is open to all students of BMSCE. <br />
+        • One student can register for only one SIG. Registering for more than
+        one SIG will lead to cancellation of seats in all the registered SIGs.{" "}
+        <br />
+        • There are only limited seats for each SIG. <br />
+        • Seats will be given to potential students based on first come first
+        serve basis except for the Python SIG. In case of a tie, preference will
+        be given to IEEE members. <br />
+        • A screening test will be held for both the Python SIGs. <br />
+        • The student will receive a certificate of course completion at the end
+        of the program. <br />
+        • A safety deposit will have to be made which will be refunded at the
+        end of the program on passing the final assessment. <br />
+        <br />
+        Refundable deposit amount: <br />
+        IEEE members: Rs.100/- <br />
+        Non-IEEE members: Rs.200/- <br />
+        <br />
+        Payments to be made at surabhihn27@okicici / 7899801301. <br />
+        <br />
+        What are you waiting for? Hurry up and <br />
+        <a href="https://forms.gle/x3jLyfMpEzAmAjQS9">
+          <button className="btn-info">register now!</button>
+        </a>{" "}
+        <br />
+        <br />
+        For queries, contact <br />
+        Surabhi: 7899801301 <br />
+        Shrayan: 9482798330 <br />
+      </p>
+    ),
+  },
 
   // {
   //   _id: "3",
@@ -74,82 +88,82 @@ const events = [
   //     </p>
   //   ),
   // },
-  {
-    _id: "4",
-    name: "Fundamentals of Digital Marketing",
-    image: "/images/events/inovact1.jpeg",
-    description: (
-      <p>
-        Moving towards the era of digitisation, most businesses are turning
-        digital and E-commerce is gaining more popularity with time.
-        <br />
-        Get Introduced to the world of Digital marketing and kick start this
-        career option with an exciting webinar offered by Inovact on
-        Fundamentals of Digital Marketing.
-        <br />
-        Date:- 09/05/2021
-        <br />
-        Time:- 11:00AM- 1:30PM
-        <br />
-        Webinar fee:- ₹79 ONLY
-        <br />
-        E-certificates will be provided for all participants.
-        <br />
-        Registration link to the webinar:
-        <a href="https://forms.gle/o6LMsR9uFrHQmBHf8">
-          <button className="btn-info">FORM</button>
-        </a>{" "}
-        For any queries ,contact:
-        <br />
-        Rahul : 9742168308
-        <br />
-        Nabil : 9740417986
-        <br />
-      </p>
-    ),
-  },
+  // {
+  //   _id: "4",
+  //   name: "Fundamentals of Digital Marketing",
+  //   image: "/images/events/inovact1.jpeg",
+  //   description: (
+  //     <p>
+  //       Moving towards the era of digitisation, most businesses are turning
+  //       digital and E-commerce is gaining more popularity with time.
+  //       <br />
+  //       Get Introduced to the world of Digital marketing and kick start this
+  //       career option with an exciting webinar offered by Inovact on
+  //       Fundamentals of Digital Marketing.
+  //       <br />
+  //       Date:- 09/05/2021
+  //       <br />
+  //       Time:- 11:00AM- 1:30PM
+  //       <br />
+  //       Webinar fee:- ₹79 ONLY
+  //       <br />
+  //       E-certificates will be provided for all participants.
+  //       <br />
+  //       Registration link to the webinar:
+  //       <a href="https://forms.gle/o6LMsR9uFrHQmBHf8">
+  //         <button className="btn-info">FORM</button>
+  //       </a>{" "}
+  //       For any queries ,contact:
+  //       <br />
+  //       Rahul : 9742168308
+  //       <br />
+  //       Nabil : 9740417986
+  //       <br />
+  //     </p>
+  //   ),
+  // },
 
-  {
-    _id: "5",
-    name: "Step In and Up 2.0",
-    image: "/images/events/rotaad.jpg",
-    description: (
-      <p>
-        As we all know this year isn't normal to any of us, We have seen our
-        loved ones suffer and a lot of people go through a tough phase. We know
-        it's hard to deal with or express the fear and stress each one of us is
-        going through, but don't worry! We heard you.
-        <br />
-        The Lime Green Team of RCBMSY have come up with the second version of
-        "Anxiety and Depression" session under the banner of "Step In and Up
-        2.0" by our psychologist
-        <a
-          className="text-info"
-          href="https://www.instagram.com/_wellness_within_/"
-        >
-          {" "}
-          @_wellness_within_
-        </a>
-        <br />
-        One's mental health needs a lot of attention right now as it is
-        something that isn't easy to get through.Our speaker is here to address
-        all your concerns and also teach us on how to handle the present
-        situation.
-        <br />
-        Please don't miss this opportunity.
-        <br />
-        Looking forward to have y'all with us ❤️
-        <br />
-        DATE : 9th May
-        <br />
-        TIME : 4pm
-        <br />
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSecw5n9UXnviEHOr48wYcSZwNVcqT3vX2-FBsUO0S-M-Jk1uw/viewform">
-          <button className="btn-info">FORM</button>
-        </a>{" "}
-      </p>
-    ),
-  },
+  // {
+  //   _id: "5",
+  //   name: "Step In and Up 2.0",
+  //   image: "/images/events/rotaad.jpg",
+  //   description: (
+  //     <p>
+  //       As we all know this year isn't normal to any of us, We have seen our
+  //       loved ones suffer and a lot of people go through a tough phase. We know
+  //       it's hard to deal with or express the fear and stress each one of us is
+  //       going through, but don't worry! We heard you.
+  //       <br />
+  //       The Lime Green Team of RCBMSY have come up with the second version of
+  //       "Anxiety and Depression" session under the banner of "Step In and Up
+  //       2.0" by our psychologist
+  //       <a
+  //         className="text-info"
+  //         href="https://www.instagram.com/_wellness_within_/"
+  //       >
+  //         {" "}
+  //         @_wellness_within_
+  //       </a>
+  //       <br />
+  //       One's mental health needs a lot of attention right now as it is
+  //       something that isn't easy to get through.Our speaker is here to address
+  //       all your concerns and also teach us on how to handle the present
+  //       situation.
+  //       <br />
+  //       Please don't miss this opportunity.
+  //       <br />
+  //       Looking forward to have y'all with us ❤️
+  //       <br />
+  //       DATE : 9th May
+  //       <br />
+  //       TIME : 4pm
+  //       <br />
+  //       <a href="https://docs.google.com/forms/d/e/1FAIpQLSecw5n9UXnviEHOr48wYcSZwNVcqT3vX2-FBsUO0S-M-Jk1uw/viewform">
+  //         <button className="btn-info">FORM</button>
+  //       </a>{" "}
+  //     </p>
+  //   ),
+  // },
 
   {
     _id: "6",
