@@ -123,47 +123,35 @@ const events = [
   //   ),
   // },
 
-  // {
-  //   _id: "5",
-  //   name: "Step In and Up 2.0",
-  //   image: "/images/events/rotaad.jpg",
-  //   description: (
-  //     <p>
-  //       As we all know this year isn't normal to any of us, We have seen our
-  //       loved ones suffer and a lot of people go through a tough phase. We know
-  //       it's hard to deal with or express the fear and stress each one of us is
-  //       going through, but don't worry! We heard you.
-  //       <br />
-  //       The Lime Green Team of RCBMSY have come up with the second version of
-  //       "Anxiety and Depression" session under the banner of "Step In and Up
-  //       2.0" by our psychologist
-  //       <a
-  //         className="text-info"
-  //         href="https://www.instagram.com/_wellness_within_/"
-  //       >
-  //         {" "}
-  //         @_wellness_within_
-  //       </a>
-  //       <br />
-  //       One's mental health needs a lot of attention right now as it is
-  //       something that isn't easy to get through.Our speaker is here to address
-  //       all your concerns and also teach us on how to handle the present
-  //       situation.
-  //       <br />
-  //       Please don't miss this opportunity.
-  //       <br />
-  //       Looking forward to have y'all with us ❤️
-  //       <br />
-  //       DATE : 9th May
-  //       <br />
-  //       TIME : 4pm
-  //       <br />
-  //       <a href="https://docs.google.com/forms/d/e/1FAIpQLSecw5n9UXnviEHOr48wYcSZwNVcqT3vX2-FBsUO0S-M-Jk1uw/viewform">
-  //         <button className="btn-info">FORM</button>
-  //       </a>{" "}
-  //     </p>
-  //   ),
-  // },
+  {
+    _id: "5",
+    name: "webinar offered by Inovact on 'HTML & CSS'",
+    image: "/images/events/inovact.jpeg",
+    description: (
+      <p>
+        HTML is the foundation of all web pages. It defines the structure of a
+        page, while CSS defines its style. HTML and CSS are the beginning of
+        everything you need to know to make your first web page!
+        <br />
+        Enroll yourself in this webinar offered by Inovact on 'HTML & CSS' and
+        start creating amazing websites.
+        <br />
+        Date : 15th May 2021
+        <br />
+        Time : 2pm to 5pm
+        <br />
+        Webinar fee : ₹99 ONLY
+        <br />
+        E-Certificates will be provided for all participants.
+        <br />
+        For any queries , please contact: Nabil- 9740417986
+        <br />
+        <a href="https://forms.gle/SUvLBxcWNgREEkVg6">
+          <button className="btn-info">FORM</button>
+        </a>{" "}
+      </p>
+    ),
+  },
 
   {
     _id: "6",

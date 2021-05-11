@@ -10,7 +10,51 @@ const UpdatesHomeScreen = () => {
         <Col sm={12} md={6} lg={4} xl={4}>
           <Card className="my-2 p-2 mx-2  rounded cards">
             <Card.Body className="text-center p-2">
+              <a style={{ color: "#000" }} href={`/update/7`}>
+                <Card.Title>
+                  <strong style={{ color: "#000" }} className="text-dark">
+                    Free Netflix Subscription from JustVend
+                  </strong>
+                </Card.Title>
+              </a>
+              <a style={{ color: "#000" }} href={`/update/7`}>
+                <Button
+                  style={{ backgroundColor: "#000" }}
+                  className="text-capitalize btn-block custom-btn"
+                >
+                  Read More
+                </Button>
+              </a>
+            </Card.Body>
+          </Card>
+        </Col>
+        {/****************************************************************************************************/}
+        <Col sm={12} md={6} lg={4} xl={4}>
+          <Card className="my-2 p-2 mx-2  rounded cards">
+            <Card.Body className="text-center p-2">
               <a style={{ color: "#000" }} href={`/update/5`}>
+                <Card.Title>
+                  <strong style={{ color: "#000" }} className="text-dark">
+                    Coursera is back at BMSCE
+                  </strong>
+                </Card.Title>
+              </a>
+              <a style={{ color: "#000" }} href={`/update/5`}>
+                <Button
+                  style={{ backgroundColor: "#000" }}
+                  className="text-capitalize btn-block custom-btn"
+                >
+                  Read More
+                </Button>
+              </a>
+            </Card.Body>
+          </Card>
+        </Col>
+        {/****************************************************************************************************/}
+        <Col sm={12} md={6} lg={4} xl={4}>
+          <Card className="my-2 p-2 mx-2  rounded cards">
+            <Card.Body className="text-center p-2">
+              <a style={{ color: "#000" }} href={`/update/6`}>
                 <Card.Title>
                   <strong style={{ color: "#000" }} className="text-dark">
                     NSS Unit of BMSCE are looking for volunteers who would be
@@ -19,7 +63,7 @@ const UpdatesHomeScreen = () => {
                   </strong>
                 </Card.Title>
               </a>
-              <a style={{ color: "#000" }} href={`/update/5`}>
+              <a style={{ color: "#000" }} href={`/update/6`}>
                 <Button
                   style={{ backgroundColor: "#000" }}
                   className="text-capitalize btn-block custom-btn"

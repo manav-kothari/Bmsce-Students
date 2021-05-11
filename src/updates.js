@@ -36,6 +36,27 @@ const updates = [
 
   {
     _id: "5",
+    title: "Coursera is back at BMSCE",
+    image: "/images/updates/coursera.png",
+    description: (
+      <p>
+        Coursera is back at BMSCE but each student/faculty can enroll for only
+        one course for free out of 3600+ available courses. It is available till
+        the end of 2021. <br /> <br />
+        <a href="https://www.coursera.org/programs/school-of-engineering-on-coursera-3uxnk?currentTab=CATALOG">
+          <button className="btn-info">LINK</button>
+        </a>{" "}
+        <br /> <br />
+        Click on the link Register and/or login using BMSCE email ID to login
+        and click on "join" The student or faculty can enroll in any of the
+        course of their choice.
+        <br />{" "}
+      </p>
+    ),
+  },
+
+  {
+    _id: "6",
     title:
       "NSS Unit of BMSCE are looking for volunteers who would be willing to do poster designing / video editing to spread awareness about the COVID-19 protocols.",
     image: "/images/updates/nss.jpg",
@@ -58,6 +79,32 @@ const updates = [
         </a>{" "}
         <br />
         Let's help spread awareness in these tough times
+      </p>
+    ),
+  },
+
+  {
+    _id: "7",
+    title: "Free Netflix Subscription 🤩",
+    image: "/images/updates/justvend.jpg",
+    description: (
+      <p>
+        HOW TO PARTICIPATE-
+        <br /> 1. Order from your nearest JustVend vending machine b/w 8 May to
+        28 May. <br />
+        2. Take a picture with the justvend vending machine and post it on your
+        Instagram story with the hashtag #justvendandchill & tag:
+        <a className="text-info" href="https://www.instagram.com/justvend_/">
+          {" "}
+          @justvend_
+        </a>{" "}
+        <br />
+        3. Winners will be announced on 29 May. <br />
+        <br />{" "}
+        <a href="https://www.instagram.com/p/COnam5ij5wF/?utm_source=ig_web_copy_link">
+          <button className="btn-danger">Instagram</button>
+        </a>{" "}
+        <br />
       </p>
     ),
   },
