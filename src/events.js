@@ -1,59 +1,4 @@
 const events = [
-  {
-    _id: "1",
-    name: "Events from IEEE",
-    image: "/images/events/ieee.png",
-    description: (
-      <p>
-        Greetings from BMSCE IEEE!
-        <br />
-        "An Investment in knowledge pays the best interests."
-        <br />
-        Keeping with the constant changes in technology can be quite a herculean
-        task. Fret not! BMSCE IEEE SB in collaboration with BMSCE IEEE PES is
-        proud to present the SIGs!
-        <br />
-        Taking into consideration your opinions, we will be having the following
-        SIGs for this semester: <br />
-        1. Python basics <br />
-        2. Python Advanced <br />
-        3. Intro to Fusion 360 <br />
-        4. Arduino <br />
-        5. Public Speaking <br />
-        <br />
-        • The registration for the SIGs is open to all students of BMSCE. <br />
-        • One student can register for only one SIG. Registering for more than
-        one SIG will lead to cancellation of seats in all the registered SIGs.{" "}
-        <br />
-        • There are only limited seats for each SIG. <br />
-        • Seats will be given to potential students based on first come first
-        serve basis except for the Python SIG. In case of a tie, preference will
-        be given to IEEE members. <br />
-        • A screening test will be held for both the Python SIGs. <br />
-        • The student will receive a certificate of course completion at the end
-        of the program. <br />
-        • A safety deposit will have to be made which will be refunded at the
-        end of the program on passing the final assessment. <br />
-        <br />
-        Refundable deposit amount: <br />
-        IEEE members: Rs.100/- <br />
-        Non-IEEE members: Rs.200/- <br />
-        <br />
-        Payments to be made at surabhihn27@okicici / 7899801301. <br />
-        <br />
-        What are you waiting for? Hurry up and <br />
-        <a href="https://forms.gle/x3jLyfMpEzAmAjQS9">
-          <button className="btn-info">register now!</button>
-        </a>{" "}
-        <br />
-        <br />
-        For queries, contact <br />
-        Surabhi: 7899801301 <br />
-        Shrayan: 9482798330 <br />
-      </p>
-    ),
-  },
-
   // {
   //   _id: "3",
   //   name: "Learn to design a PCB from scratch",
@@ -124,7 +69,7 @@ const events = [
   // },
 
   {
-    _id: "5",
+    _id: "1",
     name: "webinar offered by Inovact on 'HTML & CSS'",
     image: "/images/events/inovact.jpeg",
     description: (
@@ -154,7 +99,7 @@ const events = [
   },
 
   {
-    _id: "6",
+    _id: "2",
     name: "Want to be part of BMSCE's tech team CODELOCKED?",
     image: "/images/events/codelock.jpeg",
     description: (
@@ -195,6 +140,45 @@ const events = [
       </p>
     ),
   },
+
+  {
+    _id: "3",
+    name: "The Ayurvedic wonder for covid Immunity webinar",
+    image: "/images/events/rotract.png",
+    description: (
+      <p>
+        Greetings from NSS Unit of BMSCE!
+        <br />
+        It entails us to follow appropriate social distancing and personal
+        hygiene measures to protect public health during this 2nd wave. It is
+        also imperative to determine the awareness, knowledge, and attitude
+        about COVID - 19
+        <br />
+        So, NSS in collaboration with Janmamithra Trust and Rotaract Bangalore
+        Vijayanagar are conducting an Webinar program on the Ayurvedic benefits
+        to boost immunity .
+        <br />
+        Dr. Swathi would highlight the ways for us to improve our immunity and
+        keep our families safe.
+        <br />
+        Be a part of the The Ayurvedic wonder for covid Immunity webinar!!!
+        <br />
+        DATE: 16th May 2021 <br />
+        TIME: 3 PM - 4 PM <br />
+        Please confirm your presence by joining the group by clicking the <br />
+        <a href="https://chat.whatsapp.com/HHpby78FQDJ0JlysUotR40">
+          <button className="btn-success">LINK</button>
+        </a>{" "}
+        <br />
+        Contact: <br />
+        Dev: 9986688917
+        <br />
+        Mohit: 8147197203
+        <br />
+      </p>
+    ),
+  },
+
   {
     _id: "10",
     name: "INTERNSHIP PROGRAM",
