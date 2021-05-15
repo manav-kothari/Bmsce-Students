@@ -68,78 +68,78 @@ const events = [
   //   ),
   // },
 
-  {
-    _id: "1",
-    name: "webinar offered by Inovact on 'HTML & CSS'",
-    image: "/images/events/inovact.jpeg",
-    description: (
-      <p>
-        HTML is the foundation of all web pages. It defines the structure of a
-        page, while CSS defines its style. HTML and CSS are the beginning of
-        everything you need to know to make your first web page!
-        <br />
-        Enroll yourself in this webinar offered by Inovact on 'HTML & CSS' and
-        start creating amazing websites.
-        <br />
-        Date : 15th May 2021
-        <br />
-        Time : 2pm to 5pm
-        <br />
-        Webinar fee : ₹99 ONLY
-        <br />
-        E-Certificates will be provided for all participants.
-        <br />
-        For any queries , please contact: Nabil- 9740417986
-        <br />
-        <a href="https://forms.gle/SUvLBxcWNgREEkVg6">
-          <button className="btn-info">FORM</button>
-        </a>{" "}
-      </p>
-    ),
-  },
+  // {
+  //   _id: "1",
+  //   name: "webinar offered by Inovact on 'HTML & CSS'",
+  //   image: "/images/events/inovact.jpeg",
+  //   description: (
+  //     <p>
+  //       HTML is the foundation of all web pages. It defines the structure of a
+  //       page, while CSS defines its style. HTML and CSS are the beginning of
+  //       everything you need to know to make your first web page!
+  //       <br />
+  //       Enroll yourself in this webinar offered by Inovact on 'HTML & CSS' and
+  //       start creating amazing websites.
+  //       <br />
+  //       Date : 15th May 2021
+  //       <br />
+  //       Time : 2pm to 5pm
+  //       <br />
+  //       Webinar fee : ₹99 ONLY
+  //       <br />
+  //       E-Certificates will be provided for all participants.
+  //       <br />
+  //       For any queries , please contact: Nabil- 9740417986
+  //       <br />
+  //       <a href="https://forms.gle/SUvLBxcWNgREEkVg6">
+  //         <button className="btn-info">FORM</button>
+  //       </a>{" "}
+  //     </p>
+  //   ),
+  // },
 
-  {
-    _id: "2",
-    name: "Want to be part of BMSCE's tech team CODELOCKED?",
-    image: "/images/events/codelock.jpeg",
-    description: (
-      <p>
-        Hey peeps,
-        <br />
-        Want to be part of BMSCE's tech team CODELOCKED? 🧑‍💻
-        <br />
-        👉So be ready, the recruitment process will be starting from Sunday, May
-        15, @5:00 PM. 🥳
-        <br />
-        <br />
-        👉The recruitment process will include 2 rounds. First will be Technical
-        Round where in you have to solve up certain questions regarding coding
-        and general technology. Based on the scores, you will be sorted for
-        Interview Round. The Technical Round will be online and on "Google
-        Forms".
-        <br />
-        The Interview Round will be on Google Meet. Fill the form given below to
-        join the WhatsApp group for more info:
-        <br />
-        <br />
-        📝{" "}
-        <a href="https://forms.gle/2CJB3Z8ajLgNeetL7">
-          <button className="btn-info">FORM</button>
-        </a>{" "}
-        <br />
-        Follow us on Instagram:
-        <a
-          className="text-info"
-          href="https://www.instagram.com/teamcodelocked/"
-        >
-          {" "}
-          @teamcodelocked
-        </a>{" "}
-        😉
-        <br />
-      </p>
-    ),
-  },
+  // {
+  //   _id: "2",
+  //   name: "Want to be part of BMSCE's tech team CODELOCKED?",
+  //   image: "/images/events/codelock.jpeg",
+  //   description: (
+  //     <p>
+  //       Hey peeps,
+  //       <br />
+  //       Want to be part of BMSCE's tech team CODELOCKED? 🧑‍💻
+  //       <br />
+  //       👉So be ready, the recruitment process will be starting from Sunday, May
+  //       15, @5:00 PM. 🥳
+  //       <br />
+  //       <br />
+  //       👉The recruitment process will include 2 rounds. First will be Technical
+  //       Round where in you have to solve up certain questions regarding coding
+  //       and general technology. Based on the scores, you will be sorted for
+  //       Interview Round. The Technical Round will be online and on "Google
+  //       Forms".
+  //       <br />
+  //       The Interview Round will be on Google Meet. Fill the form given below to
+  //       join the WhatsApp group for more info:
+  //       <br />
+  //       <br />
+  //       📝{" "}
+  //       <a href="https://forms.gle/2CJB3Z8ajLgNeetL7">
+  //         <button className="btn-info">FORM</button>
+  //       </a>{" "}
+  //       <br />
+  //       Follow us on Instagram:
+  //       <a
+  //         className="text-info"
+  //         href="https://www.instagram.com/teamcodelocked/"
+  //       >
+  //         {" "}
+  //         @teamcodelocked
+  //       </a>{" "}
+  //       😉
+  //       <br />
+  //     </p>
+  //   ),
+  // },
 
   {
     _id: "3",
