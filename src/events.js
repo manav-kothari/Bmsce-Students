@@ -143,38 +143,37 @@ const events = [
 
   {
     _id: "3",
-    name: "The Ayurvedic wonder for covid Immunity webinar",
-    image: "/images/events/rotract.png",
+    name: "Webinar on Product designing for young entrepreneurs",
+    image: "/images/events/iic.jpg",
     description: (
       <p>
-        Greetings from NSS Unit of BMSCE!
+        Greetings from BMSCE IIC, the start-up cell of B.M.S College of
+        Engineering!
         <br />
-        It entails us to follow appropriate social distancing and personal
-        hygiene measures to protect public health during this 2nd wave. It is
-        also imperative to determine the awareness, knowledge, and attitude
-        about COVID - 19
+        Product designing is one of the fundamentally important aspects of
+        entrepreneurship that cannot be overlooked. Good designs offer clarity
+        and expresses the product's function or service more effectively and
+        hence plays a very critical role.
         <br />
-        So, NSS in collaboration with Janmamithra Trust and Rotaract Bangalore
-        Vijayanagar are conducting an Webinar program on the Ayurvedic benefits
-        to boost immunity .
+        Here’s the good news! BMSCE IIC has organised a webinar on Product
+        designing for young entrepreneurs, by Prasanna Banavara, Platform
+        program manager at Intel Technology India Pvt. Ltd, who is here to help
+        you create designs that bring out the capabilities of products and
+        services to the fullest.
         <br />
-        Dr. Swathi would highlight the ways for us to improve our immunity and
-        keep our families safe.
-        <br />
-        Be a part of the The Ayurvedic wonder for covid Immunity webinar!!!
-        <br />
-        DATE: 16th May 2021 <br />
-        TIME: 3 PM - 4 PM <br />
-        Please confirm your presence by joining the group by clicking the <br />
-        <a href="https://chat.whatsapp.com/HHpby78FQDJ0JlysUotR40">
+        Date: 21.05.21 <br />
+        Timings: 6 - 730 PM <br />
+        Platform: Google meet <br />
+        Open to all! <br />
+        Do not miss out on this amazing opportunity! <br />
+        Join the whatsapp group for more information: <br />
+        <a href="https://chat.whatsapp.com/BcTiWhnVUWe2IrSXndhTE1">
           <button className="btn-success">LINK</button>
         </a>{" "}
         <br />
-        Contact: <br />
-        Dev: 9986688917
-        <br />
-        Mohit: 8147197203
-        <br />
+        For any queries, do contact: <br />
+        Kalp L Jain: 7060680819 <br />
+        Ranjini Iyer: 9902888866
       </p>
     ),
   },
