@@ -98,51 +98,8 @@ const events = [
   //   ),
   // },
 
-  // {
-  //   _id: "2",
-  //   name: "Want to be part of BMSCE's tech team CODELOCKED?",
-  //   image: "/images/events/codelock.jpeg",
-  //   description: (
-  //     <p>
-  //       Hey peeps,
-  //       <br />
-  //       Want to be part of BMSCE's tech team CODELOCKED? 🧑‍💻
-  //       <br />
-  //       👉So be ready, the recruitment process will be starting from Sunday, May
-  //       15, @5:00 PM. 🥳
-  //       <br />
-  //       <br />
-  //       👉The recruitment process will include 2 rounds. First will be Technical
-  //       Round where in you have to solve up certain questions regarding coding
-  //       and general technology. Based on the scores, you will be sorted for
-  //       Interview Round. The Technical Round will be online and on "Google
-  //       Forms".
-  //       <br />
-  //       The Interview Round will be on Google Meet. Fill the form given below to
-  //       join the WhatsApp group for more info:
-  //       <br />
-  //       <br />
-  //       📝{" "}
-  //       <a href="https://forms.gle/2CJB3Z8ajLgNeetL7">
-  //         <button className="btn-info">FORM</button>
-  //       </a>{" "}
-  //       <br />
-  //       Follow us on Instagram:
-  //       <a
-  //         className="text-info"
-  //         href="https://www.instagram.com/teamcodelocked/"
-  //       >
-  //         {" "}
-  //         @teamcodelocked
-  //       </a>{" "}
-  //       😉
-  //       <br />
-  //     </p>
-  //   ),
-  // },
-
   {
-    _id: "3",
+    _id: "1",
     name: "Webinar on Product designing for young entrepreneurs",
     image: "/images/events/iic.jpg",
     description: (
@@ -174,6 +131,68 @@ const events = [
         For any queries, do contact: <br />
         Kalp L Jain: 7060680819 <br />
         Ranjini Iyer: 9902888866
+      </p>
+    ),
+  },
+
+  {
+    _id: "2",
+    name: "Tambola Night",
+    image: "/images/events/tambola.jpg",
+    description: (
+      <p>
+        We release our next weekend activity "Tambola Night"
+        <br />
+        Does your luck play with you and you can bag the prize?
+        <br />
+        Tambola Night definitely going to make your mood stronger and
+        better...Join us on 22 may at 7.30pm
+        <br />
+        Kindly{" "}
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYAkn-Hlf0bBbTfaueJ-Wn6VdqOkNyMUqPrkiGzEwIvzIBiw/viewform?fbzx=-9158278893210416466">
+          <button className="btn-info">Register</button>
+        </a>{" "}
+        yourself! For smooth systematic process!
+        <br />
+        <br />
+        Instagram:
+        <a className="text-info" href="https://www.instagram.com/rota_bms/">
+          {" "}
+          @rota_bms
+        </a>{" "}
+        <br />
+      </p>
+    ),
+  },
+
+  {
+    _id: "3",
+    name: "Yoga for Unity & Well-Being",
+    image: "/images/events/yoga.png",
+    description: (
+      <p>
+        Greetings from the NSS Unit of BMSCE!
+        <br />
+        The ministry of AYUSH, Government of India in collaboration with United
+        Nations Information Center and the Association of Indian Universities is
+        conducting “Yoga for Unity & Well-Being”- a 100 day virtual program .
+        <br />
+        The program shall include daily Yoga practical sessions, twice a week
+        knowledge sessions and Sunday meditation with acknowledged experts,
+        being offered for global well-being and unity to one and all.
+        <br />
+        Do join us and connect with your inner chakras from this workshop.
+        <br />
+        Join our what's app group :{" "}
+        <a href="https://chat.whatsapp.com/BkhnKteENVr6MrRr8AuQi9">
+          <button className="btn-success">WhatsApp Group</button>
+        </a>{" "}
+        <br />
+        For further details contact:
+        <br />
+        Mahima - +91 8296596444
+        <br />
+        Mohit - +91 81471 97203
       </p>
     ),
   },
