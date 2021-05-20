@@ -1,103 +1,4 @@
 const events = [
-  // {
-  //   _id: "3",
-  //   name: "Learn to design a PCB from scratch",
-  //   image: "/images/events/inovact2.jpeg",
-  //   description: (
-  //     <p>
-  //       As Electronic devices are getting compact, PCB designing is gaining more
-  //       importance and popularity.
-  //       <br />
-  //       Learn to design a PCB from scratch as per Industry Standards from the
-  //       webinar offered by Inovact on PCB DESIGN.
-  //       <br />
-  //       Date:- 08/05/2021
-  //       <br />
-  //       Time:- 11:00AM- 1:30PM
-  //       <br />
-  //       Webinar fee:-₹49 ONLY
-  //       <br />
-  //       E-certificates will be provided for all participants.
-  //       <br />
-  //       Registration link to the webinar:- <br />
-  //       <a href="https://forms.gle/zenvqdzqW5EnL6Bs9">
-  //         <button className="btn-info">FORM</button>
-  //       </a>{" "}
-  //       <br />
-  //       For any queries,contact:
-  //       <br />
-  //       Rahul : 9742168308
-  //       <br />
-  //       Nabil : 974041798
-  //       <br />
-  //     </p>
-  //   ),
-  // },
-  // {
-  //   _id: "4",
-  //   name: "Fundamentals of Digital Marketing",
-  //   image: "/images/events/inovact1.jpeg",
-  //   description: (
-  //     <p>
-  //       Moving towards the era of digitisation, most businesses are turning
-  //       digital and E-commerce is gaining more popularity with time.
-  //       <br />
-  //       Get Introduced to the world of Digital marketing and kick start this
-  //       career option with an exciting webinar offered by Inovact on
-  //       Fundamentals of Digital Marketing.
-  //       <br />
-  //       Date:- 09/05/2021
-  //       <br />
-  //       Time:- 11:00AM- 1:30PM
-  //       <br />
-  //       Webinar fee:- ₹79 ONLY
-  //       <br />
-  //       E-certificates will be provided for all participants.
-  //       <br />
-  //       Registration link to the webinar:
-  //       <a href="https://forms.gle/o6LMsR9uFrHQmBHf8">
-  //         <button className="btn-info">FORM</button>
-  //       </a>{" "}
-  //       For any queries ,contact:
-  //       <br />
-  //       Rahul : 9742168308
-  //       <br />
-  //       Nabil : 9740417986
-  //       <br />
-  //     </p>
-  //   ),
-  // },
-
-  // {
-  //   _id: "1",
-  //   name: "webinar offered by Inovact on 'HTML & CSS'",
-  //   image: "/images/events/inovact.jpeg",
-  //   description: (
-  //     <p>
-  //       HTML is the foundation of all web pages. It defines the structure of a
-  //       page, while CSS defines its style. HTML and CSS are the beginning of
-  //       everything you need to know to make your first web page!
-  //       <br />
-  //       Enroll yourself in this webinar offered by Inovact on 'HTML & CSS' and
-  //       start creating amazing websites.
-  //       <br />
-  //       Date : 15th May 2021
-  //       <br />
-  //       Time : 2pm to 5pm
-  //       <br />
-  //       Webinar fee : ₹99 ONLY
-  //       <br />
-  //       E-Certificates will be provided for all participants.
-  //       <br />
-  //       For any queries , please contact: Nabil- 9740417986
-  //       <br />
-  //       <a href="https://forms.gle/SUvLBxcWNgREEkVg6">
-  //         <button className="btn-info">FORM</button>
-  //       </a>{" "}
-  //     </p>
-  //   ),
-  // },
-
   {
     _id: "1",
     name: "Webinar on Product designing for young entrepreneurs",
@@ -167,6 +68,68 @@ const events = [
 
   {
     _id: "3",
+    name: "Mandala Art Workshop",
+    image: "/images/events/rota.jpg",
+    description: (
+      <p>
+        We release our next weekend activity "Mandala Art Workshop"
+        <br />
+        Are you fascinated about art and crafts and want to learn to make a
+        mandala art
+        <br />
+        Then this event is for you....Join us on 23 may at 12pm
+        <br />
+        Kindly register yourself in through <br />{" "}
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYAkn-Hlf0bBbTfaueJ-Wn6VdqOkNyMUqPrkiGzEwIvzIBiw/viewform">
+          <button className="btn-info">LINK</button>
+        </a>{" "}
+        <br />
+        For smooth systematic process <br />
+        Mandala art is a majestic art from practiced by people from different
+        countries with different beliefs. It starts with a small dot beautiful
+        array of colors and paterns. <br />
+        It is a meditative art form that helps one rejuvenate, release stress,
+        develop focus, and find inner self.
+        <br />
+        Speaker: Rtr. Karunya, ETE 6TH SEM, RCBMSY
+        <br />
+        Instagram:
+        <a className="text-info" href="https://www.instagram.com/rota_bms/">
+          {" "}
+          @rota_bms
+        </a>{" "}
+      </p>
+    ),
+  },
+
+  {
+    _id: "4",
+    name: "Yoga for Unity & Well-Being",
+    image: "/images/events/nss.png",
+    description: (
+      <p>
+        The NSS Unit of BMSCE in collaboration with BMSCE Alumini Club and
+        Janmamithra NGO is organizing a webinar on " Story of red drops" to
+        highlight the importance of blood donations. We have five speakers who
+        are well known amongst the blood donation society. Be a part of the
+        Story of Red Drops webinar on 23rd May 2021 from 4.30 pm to 6.00 pm.
+        Please confirm your presence by joining the group by clicking the:{" "}
+        <br />{" "}
+        <a href="https://chat.whatsapp.com/E92MHJKNpg6AWKSexHSYbZ">
+          <button className="btn-success">LINK</button>
+        </a>{" "}
+        <br />
+        All your myths about blood donation will be cleared at once!
+        <br />
+        Let's learn about blood donation, get inspired, donate blood , save
+        lives and become heroes!
+        <br />
+      </p>
+    ),
+  },
+
+  {
+    _id: "9",
     name: "Yoga for Unity & Well-Being",
     image: "/images/events/yoga.png",
     description: (
