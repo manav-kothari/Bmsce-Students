@@ -1,40 +1,40 @@
 const events = [
-  {
-    _id: "1",
-    name: "Webinar on Product designing for young entrepreneurs",
-    image: "/images/events/iic.jpg",
-    description: (
-      <p>
-        Greetings from BMSCE IIC, the start-up cell of B.M.S College of
-        Engineering!
-        <br />
-        Product designing is one of the fundamentally important aspects of
-        entrepreneurship that cannot be overlooked. Good designs offer clarity
-        and expresses the product's function or service more effectively and
-        hence plays a very critical role.
-        <br />
-        Here’s the good news! BMSCE IIC has organised a webinar on Product
-        designing for young entrepreneurs, by Prasanna Banavara, Platform
-        program manager at Intel Technology India Pvt. Ltd, who is here to help
-        you create designs that bring out the capabilities of products and
-        services to the fullest.
-        <br />
-        Date: 21.05.21 <br />
-        Timings: 6 - 730 PM <br />
-        Platform: Google meet <br />
-        Open to all! <br />
-        Do not miss out on this amazing opportunity! <br />
-        Join the whatsapp group for more information: <br />
-        <a href="https://chat.whatsapp.com/BcTiWhnVUWe2IrSXndhTE1">
-          <button className="btn-success">LINK</button>
-        </a>{" "}
-        <br />
-        For any queries, do contact: <br />
-        Kalp L Jain: 7060680819 <br />
-        Ranjini Iyer: 9902888866
-      </p>
-    ),
-  },
+  // {
+  //   _id: "1",
+  //   name: "Webinar on Product designing for young entrepreneurs",
+  //   image: "/images/events/iic.jpg",
+  //   description: (
+  //     <p>
+  //       Greetings from BMSCE IIC, the start-up cell of B.M.S College of
+  //       Engineering!
+  //       <br />
+  //       Product designing is one of the fundamentally important aspects of
+  //       entrepreneurship that cannot be overlooked. Good designs offer clarity
+  //       and expresses the product's function or service more effectively and
+  //       hence plays a very critical role.
+  //       <br />
+  //       Here’s the good news! BMSCE IIC has organised a webinar on Product
+  //       designing for young entrepreneurs, by Prasanna Banavara, Platform
+  //       program manager at Intel Technology India Pvt. Ltd, who is here to help
+  //       you create designs that bring out the capabilities of products and
+  //       services to the fullest.
+  //       <br />
+  //       Date: 21.05.21 <br />
+  //       Timings: 6 - 730 PM <br />
+  //       Platform: Google meet <br />
+  //       Open to all! <br />
+  //       Do not miss out on this amazing opportunity! <br />
+  //       Join the whatsapp group for more information: <br />
+  //       <a href="https://chat.whatsapp.com/BcTiWhnVUWe2IrSXndhTE1">
+  //         <button className="btn-success">LINK</button>
+  //       </a>{" "}
+  //       <br />
+  //       For any queries, do contact: <br />
+  //       Kalp L Jain: 7060680819 <br />
+  //       Ranjini Iyer: 9902888866
+  //     </p>
+  //   ),
+  // },
 
   {
     _id: "2",
