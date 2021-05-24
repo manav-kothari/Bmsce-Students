@@ -14,8 +14,8 @@ const events = [
         <br />
         Then this event is for you....Join us on 29-30 may at 7pm
         <br />
-        Kindly register yourself in the link provided in bio! For smooth
-        systematic process
+        Kindly register yourself in the link provided for smooth systematic
+        process
         <br />
         Kindly register yourself in through <br />{" "}
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYAkn-Hlf0bBbTfaueJ-Wn6VdqOkNyMUqPrkiGzEwIvzIBiw/viewform">
