@@ -1,97 +1,27 @@
 const events = [
-  // {
-  //   _id: "1",
-  //   name: "Webinar on Product designing for young entrepreneurs",
-  //   image: "/images/events/iic.jpg",
-  //   description: (
-  //     <p>
-  //       Greetings from BMSCE IIC, the start-up cell of B.M.S College of
-  //       Engineering!
-  //       <br />
-  //       Product designing is one of the fundamentally important aspects of
-  //       entrepreneurship that cannot be overlooked. Good designs offer clarity
-  //       and expresses the product's function or service more effectively and
-  //       hence plays a very critical role.
-  //       <br />
-  //       Here’s the good news! BMSCE IIC has organised a webinar on Product
-  //       designing for young entrepreneurs, by Prasanna Banavara, Platform
-  //       program manager at Intel Technology India Pvt. Ltd, who is here to help
-  //       you create designs that bring out the capabilities of products and
-  //       services to the fullest.
-  //       <br />
-  //       Date: 21.05.21 <br />
-  //       Timings: 6 - 730 PM <br />
-  //       Platform: Google meet <br />
-  //       Open to all! <br />
-  //       Do not miss out on this amazing opportunity! <br />
-  //       Join the whatsapp group for more information: <br />
-  //       <a href="https://chat.whatsapp.com/BcTiWhnVUWe2IrSXndhTE1">
-  //         <button className="btn-success">LINK</button>
-  //       </a>{" "}
-  //       <br />
-  //       For any queries, do contact: <br />
-  //       Kalp L Jain: 7060680819 <br />
-  //       Ranjini Iyer: 9902888866
-  //     </p>
-  //   ),
-  // },
-
   {
-    _id: "2",
-    name: "Tambola Night",
-    image: "/images/events/tambola.jpg",
-    description: (
-      <p>
-        We release our next weekend activity "Tambola Night"
-        <br />
-        Does your luck play with you and you can bag the prize?
-        <br />
-        Tambola Night definitely going to make your mood stronger and
-        better...Join us on 22 may at 7.30pm
-        <br />
-        Kindly{" "}
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYAkn-Hlf0bBbTfaueJ-Wn6VdqOkNyMUqPrkiGzEwIvzIBiw/viewform?fbzx=-9158278893210416466">
-          <button className="btn-info">Register</button>
-        </a>{" "}
-        yourself! For smooth systematic process!
-        <br />
-        <br />
-        Instagram:
-        <a className="text-info" href="https://www.instagram.com/rota_bms/">
-          {" "}
-          @rota_bms
-        </a>{" "}
-        <br />
-      </p>
-    ),
-  },
-
-  {
-    _id: "3",
+    _id: "1",
     name: "Mandala Art Workshop",
     image: "/images/events/rota.jpg",
     description: (
       <p>
-        We release our next weekend activity "Mandala Art Workshop"
+        Hola people ❤️
         <br />
-        Are you fascinated about art and crafts and want to learn to make a
-        mandala art
+        We release our next weekend activity "Talent Show"
         <br />
-        Then this event is for you....Join us on 23 may at 12pm
+        Do you have any unique talents like dance, singing, drama or any other
+        talent
+        <br />
+        Then this event is for you....Join us on 29-30 may at 7pm
+        <br />
+        Kindly register yourself in the link provided in bio! For smooth
+        systematic process
         <br />
         Kindly register yourself in through <br />{" "}
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYAkn-Hlf0bBbTfaueJ-Wn6VdqOkNyMUqPrkiGzEwIvzIBiw/viewform">
           <button className="btn-info">LINK</button>
         </a>{" "}
         <br />
-        For smooth systematic process <br />
-        Mandala art is a majestic art from practiced by people from different
-        countries with different beliefs. It starts with a small dot beautiful
-        array of colors and paterns. <br />
-        It is a meditative art form that helps one rejuvenate, release stress,
-        develop focus, and find inner self.
-        <br />
-        Speaker: Rtr. Karunya, ETE 6TH SEM, RCBMSY
         <br />
         Instagram:
         <a className="text-info" href="https://www.instagram.com/rota_bms/">
@@ -103,27 +33,88 @@ const events = [
   },
 
   {
-    _id: "4",
-    name: "Yoga for Unity & Well-Being",
-    image: "/images/events/nss.png",
+    _id: "2",
+    name: "Fashion team auditions next week!",
+    image: "/images/events/fashion.jpg",
     description: (
       <p>
-        The NSS Unit of BMSCE in collaboration with BMSCE Alumini Club and
-        Janmamithra NGO is organizing a webinar on " Story of red drops" to
-        highlight the importance of blood donations. We have five speakers who
-        are well known amongst the blood donation society. Be a part of the
-        Story of Red Drops webinar on 23rd May 2021 from 4.30 pm to 6.00 pm.
-        Please confirm your presence by joining the group by clicking the:{" "}
-        <br />{" "}
-        <a href="https://chat.whatsapp.com/E92MHJKNpg6AWKSexHSYbZ">
-          <button className="btn-success">LINK</button>
+        The google form will be open from 31/5/21 to 3/6/21 only.
+        <br />
+        Check out{" "}
+        <a
+          className="btn-danger btn my-2"
+          href="https://www.instagram.com/p/CPKnD73jud1/?utm_source=ig_web_copy_link"
+        >
+          Rules
         </a>{" "}
         <br />
-        All your myths about blood donation will be cleared at once!
+        For more information check out instagram page:
+        <a
+          className="text-info"
+          href="https://www.instagram.com/bmsce.fashionteam/"
+        >
+          {" "}
+          @bmsce.fashionteam
+        </a>{" "}
+      </p>
+    ),
+  },
+
+  {
+    _id: "3",
+    name: "Git Workshop",
+    image: "/images/events/ieee.png",
+    description: (
+      <p>
+        Greetings BMSCE!
         <br />
-        Let's learn about blood donation, get inspired, donate blood , save
-        lives and become heroes!
+        BMSCE IEEE SB and BMSCE IEEE WIE present to you the Git Workshop.
         <br />
+        What is it about?
+        <br />
+        Git is a software for tracking changes in set of files , usually
+        collaboration of programmers from different network to develop source
+        code during software development.
+        <br />
+        This workshop will also give you an idea as to how it is being used in
+        the IT industry and also how a code editor like vs code can use git and
+        make your programming life easy.
+        <br />
+        Prerequisites:
+        <br />
+        1.Git installed on your machine <br />
+        2.VS code <br />
+        3.Github profile <br />
+        <br />
+        Date: 29th May, 2021
+        <br />
+        Time: 3PM to 5PM
+        <br />
+        E-Certificates will be Provided
+        <br />
+        <br />
+        Payment details:
+        <br />
+        IEEE members: Free
+        <br />
+        Non-IEEE members: Rs.50/-
+        <br />
+        <br />
+        Payments to be made at rakshithamattuga@ybl / 8884767901.
+        <br />
+        After the payment, please do send the screenshot to 8884767901.
+        <br />
+        Do not let go of this wonderful opportunity! <br />
+        Limited seats only. Hurry up and{" "}
+        <a href="https://forms.gle/e9UqtSp614pRD48p8">
+          <button className="btn-info">Register</button>
+        </a>{" "}
+        <br />
+        For queries, contact
+        <br />
+        Rakshitha S: 8884767901
+        <br />
+        Mohit Raj : 81471 97203
       </p>
     ),
   },
