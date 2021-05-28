@@ -290,53 +290,141 @@ const events = [
 
   {
     _id: "6",
-    name: "A Transformational Journey of Breakthrough Ideas to Successful Products",
-    image: "/images/events/ciie.jpg",
+    name: "Journey of Entrepreneurship",
+    image: "/images/events/ciie30.jpg",
     description: (
       <p>
-        Hey Whiz Kid 🧠
+        🎉Under the initiative of Ktech Innovation hub powered by IAMAI - Mobile
+        10x in collaboration with IIC BMSCE is conducting a webinar : Journey of
+        Entrepreneurship: Session with students of BMS College of Engineering
         <br />
-        Are you in a dilemma about how to take your unique and mind blowing 🤯
-        ideas 💡 forward? Do you often wonder about the road less traveled? Are
-        you at a roadblock 🚧 with respect to your wonderful idea since you
-        don’t know what to do about it, and how to take it forward ⏩?
+        31st May 2021, 04:00 pm to 05:00 pm <br />
+        Speaker: <br />
+        Ms. Rachana Thamankar, Founder and CEO, Clymbe <br />
+        About Speaker: <br />
+        Rachana Thamankar is the Founder and CEO of Clymbe. She calls Clymbe as
+        India's first 'liberal edtech' startup.She is biotechnology BE graduate
+        and also completed an executive MBA joint program from Grenoble &
+        University of London, majoring in Project Management & Corporate
+        Finance.
         <br />
-        Well, it’s party time 🥳 ‘cuz we know exactly how to steer 🚘 you to
-        your path of discovery ✨.
+        Through Clymbe's flagship Future of Work Fellowship, she is on a mission
+        to build the missing half of school. She wants to teach life skills to
+        teenagers. After having taught more than 26,000 across India she felt
+        the need to do more and thus Clymbe was born.
         <br />
-        Here’s presenting BMSCE CIIE’s first ever hands-on workshop spanned over
-        an engaging 5 days on “A Transformational Journey of Breakthrough Ideas
-        to Successful Products”, conducted by Prof. Madhav Murthy from the Dept.
-        of Mechanical Engg in association with BMSCE’s Center for Innovation,
-        Incubation and Entrepreneurship (CIIE).
+        Register and join the WhatsApp group for more updates :{" "}
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRS-Xk6GBNgTd8YuOY3M_b6-JuMCx9p3y2Xkygp7G8gBi2vA/viewform">
+          <button className="btn-info">LINK</button>
+        </a>
+      </p>
+    ),
+  },
+
+  {
+    _id: "7",
+    name: "Webinar on 'INSIGHT INTO THE STOCK MARKET'",
+    image: "/images/events/invost.jpg",
+    description: (
+      <p>
+        Hello! Want to become financially independent but don't know what to
+        do!?
         <br />
-        Sign up 🔜 as there are only limited slots! Join us as we help you turn
-        your vision into value ✨
+        Don't worry!
         <br />
-        Registration link:
-        <a className="text-info" href="https://ciie.bmsedu.in/">
-          {" "}
-          https://ciie.bmsedu.in/
+        Inovact is organizing a webinar on 'INSIGHT INTO THE STOCK MARKET' which
+        will help you climb the ladder of financial independence.
+        <br />
+        This webinar will guide you step by step towards entering the stock
+        market.
+        <br />
+        Instructor: Mr. Sarang , Co-Founder at Inovact with 3+ years of
+        experience as a stock market investor.
+        <br />
+        Webinar deliverables :<br />
+        -What is an investment? <br />
+        -Types of Investments
+        <br />
+        -What is the stock market ?<br />
+        -Mutual Funds and Company shares
+        <br />
+        -How to choose good companies for investing?
+        <br />
+        -What is stock Trading?
+        <br />
+        -Types of Trading.
+        <br />
+        -What is Fundamental Analysis and Technical Analysis?
+        <br />
+        -Reading charts
+        <br />
+        -Brokerage
+        <br />
+        -Market psychology
+        <br />
+        Date:- 29/05/2021 <br />
+        Time:- 11:00AM- 1:00PM <br />
+        Webinar fee:- ₹99 ONLY <br />
+        <a href="https://forms.gle/RDu2ugdYmXn9w2zp7">
+          <button className="btn-info">Register</button>
         </a>{" "}
-        Participation certificate provided for 100% attendance and assignment
-        completion Follow us on: <br />
-        Instagram-{" "}
-        <a className="text-danger" href="https://instagram.com/ciie_bmsce">
+        <br />
+        Contact: Rahul : 9742168308
+        <br /> Follow us on Instagram:
+        <a
+          className="text-danger"
+          href="https://instagram.com/inovact__?utm_medium=copy_link"
+        >
           {" "}
-          @ciie_bmsce
+          @inovact__
         </a>{" "}
         <br />
-        Linkedln- @BMSCE Center for Innovation Incubation and Entrepreneurship
-        (CIIE)
+        We are not a SEBI registered advisory. This is for educational purposes
+        only.
+      </p>
+    ),
+  },
+
+  {
+    _id: "8",
+    name: "#BeBoldForAChange 1.0",
+    image: "/images/events/ciie03.jpg",
+    description: (
+      <p>
+        #BeBoldForAChange 1.0 <br />
+        "Entrepreneurship is about being able to face failure, manage failure
+        and succeed after failing" <br />
+        ~Kiran Mazumdar-Shaw(Founder, CMD @Biocon) <br />
+        JustVend in collaboration with IIC BMSCE & Protocol Club is launching
+        #BeBoldForAChange- an Innovation and grants competition <br />
+        Objective📌 <br />
+        Is to encourage, promote and showcase the ideas emerging from women
+        entrepreneurs and to build a supportive and dynamic ecosystem for them.
         <br />
-        Any queries? <br />
-        Contact:
+        Benefits
         <br />
-        Spoorti- 8296083493
+        -Prototype funding of ₹15,000 along with mentorship💸
         <br />
-        Abhyuday- 8310986565
+        -Certificate of participation🏅
         <br />
-        Ritu- 9741466600
+        So, Form your teams and{" "}
+        <a href="https://forms.gle/768eY57AAF5ak5CZ7">
+          <button className="btn-info">register!</button>
+        </a>{" "}
+        <br />
+        <br />
+        <a href="https://www.instagram.com/p/CPaityVjujo/?utm_source=ig_web_copy_link">
+          <button className="btn-warning">Rules & Regulations</button>
+        </a>{" "}
+        <br /> <br />
+        Deadline : June 3rd, 2021 <br />
+        <br />
+        Join us! ✨<br />
+        For Queries, Contact: <br />
+        Rahul - 9742168308
+        <br />
+        Mahima - 8296596444
+        <br />
       </p>
     ),
   },
