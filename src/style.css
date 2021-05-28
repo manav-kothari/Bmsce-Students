@@ -22,10 +22,6 @@ body {
   transform: scale(1.05);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
 }
-.card-img-top {
-  width: 100%;
-  height: 55vh;
-}
 
 .btn,
 .jumbotron,
@@ -43,11 +39,6 @@ body {
   width: 100%;
   max-width: 400px;
   height: auto;
-}
-
-.note-card-img-top {
-  width: 100%;
-  height: 35vh;
 }
 
 .blink_me {
@@ -87,10 +78,22 @@ body {
   .vt {
     display: inherit;
   }
+
+  .card-img-top {
+    width: 100%;
+  }
 }
 
 @media only screen and (min-width: 700px) {
   .vt {
     display: none;
+  }
+  .card-img-top {
+    width: 100%;
+    height: 65vh;
+  }
+  .note-card-img {
+    width: 100%;
+    height: 40vh;
   }
 }

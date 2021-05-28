@@ -4,13 +4,13 @@ import { Card, Button } from "react-bootstrap";
 const NoteCardComponent = ({ note }) => {
   return (
     <>
-      <Card className="my-2 p-2 mx-2  rounded cards">
+      <Card className="my-2 p-2 mx-1  rounded cards">
         <a
           style={{ color: "#000" }}
           href={`https://mega.nz/folder/XZ4RDCqa#RVWj2VseNnTlSRsqsCQ1lw`}
         >
           <Card.Img
-            className="note-card-img-top embed-responsive-item"
+            className="note-card-img embed-responsive-item"
             variant="top"
             src={note.image}
           />
