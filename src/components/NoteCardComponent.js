@@ -7,7 +7,7 @@ const NoteCardComponent = ({ note }) => {
       <Card className="my-2 p-2 mx-1  rounded cards">
         <a
           style={{ color: "#000" }}
-          href={`https://mega.nz/folder/XZ4RDCqa#RVWj2VseNnTlSRsqsCQ1lw`}
+          href={`https://mega.nz/folder/iNhVBIIT#TTe5Yseom0iAm-m01ABl8w`}
         >
           <Card.Img
             className="note-card-img embed-responsive-item"
@@ -18,7 +18,7 @@ const NoteCardComponent = ({ note }) => {
         <Card.Body className="text-center p-2">
           <a
             style={{ color: "#000" }}
-            href={`https://mega.nz/folder/XZ4RDCqa#RVWj2VseNnTlSRsqsCQ1lw`}
+            href={`https://mega.nz/folder/iNhVBIIT#TTe5Yseom0iAm-m01ABl8w`}
           >
             <Card.Title>
               <strong style={{ color: "#000" }} className="text-dark">
@@ -28,7 +28,7 @@ const NoteCardComponent = ({ note }) => {
           </a>
           <a
             style={{ color: "#000" }}
-            href={`https://mega.nz/folder/XZ4RDCqa#RVWj2VseNnTlSRsqsCQ1lw`}
+            href={`https://mega.nz/folder/iNhVBIIT#TTe5Yseom0iAm-m01ABl8w`}
           >
             <Button
               style={{ backgroundColor: "#000" }}
