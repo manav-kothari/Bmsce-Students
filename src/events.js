@@ -1,7 +1,7 @@
 const events = [
   {
     _id: "1",
-    name: "Upcoming event by IEEE",
+    name: "SCYTALE",
     image: "/images/events/ieee.gif",
     description: (
       <p>
@@ -173,7 +173,7 @@ const events = [
   },
   {
     _id: "5",
-    name: "#BeBoldForAChange 1.0",
+    name: "A Date With Arduino",
     image: "/images/events/elsoc.jpeg",
     description: (
       <p>
