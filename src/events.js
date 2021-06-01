@@ -51,7 +51,7 @@ const events = [
 
   {
     _id: "2",
-    name: "Fashion team auditions next week!",
+    name: "Fashion team auditions going on!",
     image: "/images/events/fashion.jpg",
     description: (
       <p>
@@ -91,39 +91,6 @@ const events = [
           {" "}
           @bmsce.fashionteam
         </a>{" "}
-      </p>
-    ),
-  },
-
-  {
-    _id: "3",
-    name: "Journey of Entrepreneurship",
-    image: "/images/events/ciie30.jpg",
-    description: (
-      <p>
-        🎉Under the initiative of Ktech Innovation hub powered by IAMAI - Mobile
-        10x in collaboration with IIC BMSCE is conducting a webinar : Journey of
-        Entrepreneurship: Session with students of BMS College of Engineering
-        <br />
-        31st May 2021, 04:00 pm to 05:00 pm <br />
-        Speaker: <br />
-        Ms. Rachana Thamankar, Founder and CEO, Clymbe <br />
-        About Speaker: <br />
-        Rachana Thamankar is the Founder and CEO of Clymbe. She calls Clymbe as
-        India's first 'liberal edtech' startup.She is biotechnology BE graduate
-        and also completed an executive MBA joint program from Grenoble &
-        University of London, majoring in Project Management & Corporate
-        Finance.
-        <br />
-        Through Clymbe's flagship Future of Work Fellowship, she is on a mission
-        to build the missing half of school. She wants to teach life skills to
-        teenagers. After having taught more than 26,000 across India she felt
-        the need to do more and thus Clymbe was born.
-        <br />
-        Register and join the WhatsApp group for more updates :{" "}
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRS-Xk6GBNgTd8YuOY3M_b6-JuMCx9p3y2Xkygp7G8gBi2vA/viewform">
-          <button className="btn-info">LINK</button>
-        </a>
       </p>
     ),
   },
