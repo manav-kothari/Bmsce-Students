@@ -21,8 +21,6 @@ const App = () => {
   };
   return (
     <Router>
-      <ScrollToTOp />
-
       <div style={{ background: "	#F2F2F2" }}>
         <Sidebar isOpen={isOpen} toggle={toggle} />
         <Navbar toggle={toggle} />
