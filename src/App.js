@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Footer from "./components/Footer";
 import ComingSoon from "./screens/ComingSoon";
@@ -9,20 +9,31 @@ import UpdateScreen from "./screens/UpdateScreen";
 import UpdatesSecondScreen from "./screens/UpdatesSecondScreen";
 import Home from "./pages";
 import "./style.css";
+import Sidebar from "./components/Sidebar";
+import Navbar from "./components/Navbar";
+import ScrollToTOp from "./components/ScrollToTop";
 
 const App = () => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const toggle = () => {
+    setIsOpen(!isOpen);
+  };
   return (
     <Router>
-      <div style={{ background: "	#F8F8F8" }}>
-        <Home />
-        <Route path="/" component={EventsHomeScreen} exact />
+      <ScrollToTOp />
+      <Sidebar isOpen={isOpen} toggle={toggle} />
+      <Navbar toggle={toggle} />
+      <Route path="/comingsoon" component={ComingSoon} exact />
+
+      <div style={{ background: "	#F2F2F2" }}>
+        <Route path="/" component={Home} exact />
         <Route path="/events" component={EventsHomeScreen} exact />
         <Route path="/event/:id" component={EventScreen} exact />
         <Route path="/updates" component={UpdatesSecondScreen} exact />
         <Route path="/update/:id" component={UpdateScreen} exact />
         <Route path="/notes" component={NotesScreen} exact />
-        <Route path="/comingsoon" component={ComingSoon} exact />
-        <Footer></Footer>
+        <Footer />
       </div>
     </Router>
   );

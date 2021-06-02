@@ -6,7 +6,6 @@ import {
   NavLogo,
   NavMenu,
   MobileIcon,
-  NavItem,
   NavLinks,
   NavBtn,
   NavBtnLink,
@@ -22,20 +21,23 @@ const Navbar = ({ toggle }) => {
             <FaBars />
           </MobileIcon>
           <NavMenu>
-            <NavItem>
-              <NavLinks to="events">Events</NavLinks>
-            </NavItem>
-            <NavItem>
-              <NavLinks to="updates">Updates</NavLinks>
-            </NavItem>
-            <NavItem>
-              <NavLinks to="notes">Notes</NavLinks>
-            </NavItem>
-            <NavItem>
-              <NavLinks to="resources">Resources</NavLinks>
-            </NavItem>
+            <NavLinks to="/events" className="nav-link" activeStyle>
+              Events
+            </NavLinks>
+
+            <NavLinks to="/updates" activeStyle>
+              Updates
+            </NavLinks>
+
+            <NavLinks to="/notes" activeStyle>
+              Notes
+            </NavLinks>
+
+            <NavLinks to="/comingsoon" activeStyle>
+              Resources
+            </NavLinks>
           </NavMenu>
-          <NavBtn>
+          <NavBtn className="btn-glow">
             <NavBtnLink target="_blank" to="//bmsce.ac.in/">
               BMSCE
             </NavBtnLink>
