@@ -11,7 +11,6 @@ import Home from "./pages";
 import "./style.css";
 import Sidebar from "./components/Sidebar";
 import Navbar from "./components/Navbar";
-import ScrollToTOp from "./components/ScrollToTop";
 
 const App = () => {
   const [isOpen, setIsOpen] = useState(false);
