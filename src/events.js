@@ -96,7 +96,7 @@ const events = [
   },
 
   {
-    _id: "4",
+    _id: "3",
     name: "#BeBoldForAChange 1.0",
     image: "/images/events/ciie03.jpg",
     description: (
@@ -138,6 +138,36 @@ const events = [
       </p>
     ),
   },
+
+  {
+    _id: "4",
+    name: "HORIZON",
+    image: "/images/events/prakruthi.png",
+    description: (
+      <p>
+        ”Photography is an austere and blazing poetry of the real.”
+        <br />
+        PRAKRUTHI - The nature club of BMSCE* brings to you *“HORIZON”, a nature
+        photography contest on the occasion of “World Environment Day”. So grab
+        your cameras and phones and unleash the extravagance of nature to the
+        rest of the world.
+        <br />
+        Present your best snapshots of nature and stand a chance to win exciting
+        cash prizes!!!
+        <br />
+        Winner : INR 1000/-
+        <br />
+        Runner-up : INR 500/-
+        <br />
+        Certificates will be provided for participation
+        <br />
+        All entries to be submitted to prakruthibmsce@gmail.com
+        <br />
+        Submission date: 04/06/2021
+      </p>
+    ),
+  },
+
   {
     _id: "5",
     name: "A Date With Arduino",
@@ -193,6 +223,166 @@ const events = [
       </p>
     ),
   },
+
+  {
+    _id: "6",
+    name: "#RestoreEarth",
+    image: "/images/events/nss.gif",
+    description: (
+      <p>
+        World Environment Day is celebrated world wide every year on June 5th.
+        <br />
+        The countdown is on and let's Act this time!
+        <br />
+        Let's sow a seed, plant a sampling or adopt a tree:potted_plant:. By
+        posting stories and videos of all the beautiful samplings and plants
+        show us your support in making a difference.
+        <br />
+        Let's also create an unbreakable chain by
+        <br />
+        Tagging @NSS_bmsce, @team_lbtc and @bmsce_prakruthi and nominating
+        minimum 2 of your friends. Do use #RestoreEarth as the caption.
+        <br />
+        Note: <br />
+        - certificates will be given to all participants
+        <br />- submit all your photos and videos in the{" "}
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfIVkStGdZ72p2YXHh3EIt0_nBxueWK1gvwUDNrwwIaapuNPw/viewform">
+          <button className="btn-info">FORM</button>
+        </a>{" "}
+        <br />
+        For further details, contact:
+        <br />
+        Sakshi - 7415443950
+        <br />
+        Mohit - 8147197203
+      </p>
+    ),
+  },
+  {
+    _id: "7",
+    name: "NATURE NURTURE🌍",
+    image: "/images/events/rota.jpeg",
+    description: (
+      <p>
+        “Nature never did betray the heart that loved her!” ~ William Wordsworth
+        <br />
+        Warm greetings from the Rotaract club of BMSCE ✨ <br />
+        On the account of "World Environment Day” on the 5th of June 2021, the
+        club is hosting an all college literary and arts fest NATURE NURTURE🌍
+        <br />
+        The literary and art competition has 5 fields of participation: <br />
+        1. Essay writing <br />
+        2. Poetry <br />
+        3. Short Stories <br />
+        4. Photography <br />
+        5. Drawing/Painting <br />
+        Please find the topics for each category detailed in the Rule book
+        attached with this message.All participants will have to submit their
+        piece of work on or before 6pm, 5th June 2021. <br />
+        Here is a chance to express your passion for a greener, cooler and
+        sustainable planet!
+        <br />
+        What are you waiting for!? <br />
+        Register below by participating in one or more fields and channel the
+        artistic streak to bring about the best in you! <br />
+        This environment day, let's nurture our nature artistically! <br />
+        <br />
+        <a href="https://bit.ly/2TxB48B">
+          <button className="btn-warning"> Rules and Themes </button>
+        </a>
+        <br />
+        <br />
+        <a href="https://forms.gle/rC2pmav8ott8gZDr7">
+          <button className="btn-info">
+            Registration cum entries submission
+          </button>
+        </a>
+        <br />
+        <br />
+        For further queries contact: <br />
+        Sangeeta:81970 30945 <br />
+        Goutham: 8105491501 <br />
+        Ritika:80731 08923 <br />
+        <br />
+        Participants can join the{" "}
+        <a href="https://chat.whatsapp.com/IdYPD6atODU8i6mW105HZF">
+          <button className="btn-success">WhatsApp Group</button>
+        </a>{" "}
+        to get further updates
+      </p>
+    ),
+  },
+
+  {
+    _id: "8",
+    name: "#RestoreEarth",
+    image: "/images/events/inov.jpeg",
+    description: (
+      <p>
+        Hello! Data Science is the fastest growing job and is predicted to
+        create 11.5 million jobs by 2026.
+        <br />
+        Data Science is high in demand but low in supply of Data Scientists.
+        <br />
+        INOVACT is conducting a webinar on DATA SCIENCE!
+        <br />
+        Understand the modern data science landscape and technical terms for a
+        data-driven world.
+        <br />
+        Course deliverables:
+        <br />
+        1.WHY DATA SCIENCE?
+        <br />
+        2.DATA SCIENCE OVERVIEW
+        <br />
+        ->What is Data Science?
+        <br />
+        ->Prerequisites to learn data science
+        <br />
+        ->What kind of projects we will deal with in data science
+        <br />
+        3.TYPES OF DATA YOU DEAL WITH
+        <br />
+        4.OVERVIEW OF ALGORITHMS
+        <br />
+        5.OVERVIEW OF DATA SCIENCE CONCEPTS
+        <br />
+        6.DEMO OF DATA SCIENCE PROJECTS
+        <br />
+        Instructor : Mr.Girish G N<br />
+        Co-Founder at Ergonize
+        <br />
+        <a href="https://www.linkedin.com/in/girish-g-n-70a444188/">
+          <button className="btn-info">LinkedIn</button>
+        </a>
+        Date:- 05/06/2021 & 06/06/2021 <br />
+        Time:- 11:00AM- 1:00PM <br />
+        Webinar fee:- ₹99 ONLY <br />
+        Registration link:
+        <a href="https://forms.gle/AuQvjxag5S3YG8DN7">
+          <button className="btn-info">LINK</button>
+        </a>
+        <br />
+        Inovact will be offering Post-Webinar hands-on projects with mentorship,
+        absolutely for free!
+        <br />
+        E-Certificates will be provided for ALL participants
+        <br />
+        Contact: <br />
+        Rahul : 9742168308
+        <br />
+        Follow us on
+        <a
+          className="text-danger"
+          href="https://instagram.com/inovact__?utm_medium=copy_link"
+        >
+          {" "}
+          Instagram
+        </a>{" "}
+      </p>
+    ),
+  },
+
   {
     _id: "9",
     name: "Yoga for Unity & Well-Being",

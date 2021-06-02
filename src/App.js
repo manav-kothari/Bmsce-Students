@@ -22,11 +22,11 @@ const App = () => {
   return (
     <Router>
       <ScrollToTOp />
-      <Sidebar isOpen={isOpen} toggle={toggle} />
-      <Navbar toggle={toggle} />
-      <Route path="/comingsoon" component={ComingSoon} exact />
 
       <div style={{ background: "	#F2F2F2" }}>
+        <Sidebar isOpen={isOpen} toggle={toggle} />
+        <Navbar toggle={toggle} />
+        <Route path="/comingsoon" component={ComingSoon} exact />
         <Route path="/" component={Home} exact />
         <Route path="/events" component={EventsHomeScreen} exact />
         <Route path="/event/:id" component={EventScreen} exact />
