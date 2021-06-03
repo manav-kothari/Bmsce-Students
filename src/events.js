@@ -96,50 +96,6 @@ const events = [
   },
 
   {
-    _id: "3",
-    name: "#BeBoldForAChange 1.0",
-    image: "/images/events/ciie03.jpg",
-    description: (
-      <p>
-        #BeBoldForAChange 1.0 <br />
-        "Entrepreneurship is about being able to face failure, manage failure
-        and succeed after failing" <br />
-        ~Kiran Mazumdar-Shaw(Founder, CMD @Biocon) <br />
-        JustVend in collaboration with IIC BMSCE & Protocol Club is launching
-        #BeBoldForAChange- an Innovation and grants competition <br />
-        Objective📌 <br />
-        Is to encourage, promote and showcase the ideas emerging from women
-        entrepreneurs and to build a supportive and dynamic ecosystem for them.
-        <br />
-        Benefits
-        <br />
-        -Prototype funding of ₹15,000 along with mentorship💸
-        <br />
-        -Certificate of participation🏅
-        <br />
-        So, Form your teams and{" "}
-        <a href="https://forms.gle/768eY57AAF5ak5CZ7">
-          <button className="btn-info">register!</button>
-        </a>{" "}
-        <br />
-        <br />
-        <a href="https://www.instagram.com/p/CPaityVjujo/?utm_source=ig_web_copy_link">
-          <button className="btn-warning">Rules & Regulations</button>
-        </a>{" "}
-        <br /> <br />
-        Deadline : June 3rd, 2021 <br />
-        <br />
-        Join us! ✨<br />
-        For Queries, Contact: <br />
-        Rahul - 9742168308
-        <br />
-        Mahima - 8296596444
-        <br />
-      </p>
-    ),
-  },
-
-  {
     _id: "4",
     name: "HORIZON",
     image: "/images/events/prakruthi.png",
