@@ -9,7 +9,7 @@ const Footer = () => {
         <GrMail className="text center" />{" "}
         <a
           className="text-dark text-center"
-          href="https://mail.google.com/mail/u/?authuser=bmscestudents@gmail.com"
+          href="mailto:bmscestudents@gmail.com"
         >
           <small>bmscestudents@gmail.com</small>
         </a>
