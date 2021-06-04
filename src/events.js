@@ -51,81 +51,6 @@ const events = [
 
   {
     _id: "2",
-    name: "Fashion team auditions going on!",
-    image: "/images/events/fashion.jpg",
-    description: (
-      <p>
-        Send a 15-20 sec video for each of the songs mentioned below with a
-        maximum of 2 poses (reference videos will be sent soon !)
-        <br />
-        Girls: Say so by Doja Cat and <br />
-        Trampoline by Zayn Malik Boys: Adventure of a lifetime - Coldplay and{" "}
-        <br />
-        Starboy - The Weeknd Please attach both the videos as one single google
-        photos link on google form
-        <br />
-        •Send a full body image in portrait mode on google form
-        <br />
-        •Fill in all the details provided in the google form.
-        <br /> •No sort of editing or filters will be entertained in the video/
-        photo.
-        <br />
-        •Make sure you walk for the musics that is provided to you by us <br />
-        •Makeup/ hairstyle artists must attach 3 works on theirs as one google
-        photo link on google form.
-        <br />
-        The google link will be open from 31/5/21 to 3/6/21 only.
-        <br />
-        Reference videos will be sent soon.
-        <br />
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSef846LDPkV5UewzuQbaavNjG2mfCiW1Bqh_L5B3QrUYhr0jQ/viewform">
-          <button className="btn-info">FORM</button>
-        </a>{" "}
-        <br />
-        Follow the BMSCE fashion team page on Instagram for more updates and
-        check our highlights if there are any concerns:
-        <a
-          className="text-info"
-          href="https://www.instagram.com/bmsce.fashionteam/"
-        >
-          {" "}
-          @bmsce.fashionteam
-        </a>{" "}
-      </p>
-    ),
-  },
-
-  {
-    _id: "4",
-    name: "HORIZON",
-    image: "/images/events/prakruthi.png",
-    description: (
-      <p>
-        ”Photography is an austere and blazing poetry of the real.”
-        <br />
-        PRAKRUTHI - The nature club of BMSCE* brings to you *“HORIZON”, a nature
-        photography contest on the occasion of “World Environment Day”. So grab
-        your cameras and phones and unleash the extravagance of nature to the
-        rest of the world.
-        <br />
-        Present your best snapshots of nature and stand a chance to win exciting
-        cash prizes!!!
-        <br />
-        Winner : INR 1000/-
-        <br />
-        Runner-up : INR 500/-
-        <br />
-        Certificates will be provided for participation
-        <br />
-        All entries to be submitted to prakruthibmsce@gmail.com
-        <br />
-        Submission date: 04/06/2021
-      </p>
-    ),
-  },
-
-  {
-    _id: "5",
     name: "A Date With Arduino",
     image: "/images/events/elsoc.jpeg",
     description: (
@@ -181,7 +106,7 @@ const events = [
   },
 
   {
-    _id: "6",
+    _id: "4",
     name: "#RestoreEarth",
     image: "/images/events/nss.gif",
     description: (
@@ -215,7 +140,7 @@ const events = [
     ),
   },
   {
-    _id: "7",
+    _id: "5",
     name: "NATURE NURTURE🌍",
     image: "/images/events/rota.jpeg",
     description: (
@@ -268,76 +193,123 @@ const events = [
       </p>
     ),
   },
-
   {
-    _id: "8",
-    name: "#RestoreEarth",
-    image: "/images/events/inov.jpeg",
+    _id: "6",
+    name: "Solution to the Pandemic!",
+    image: "/images/events/covid.jpeg",
     description: (
       <p>
-        Hello! Data Science is the fastest growing job and is predicted to
-        create 11.5 million jobs by 2026.
+        Hello BMSCIANS! ✨ Department of CSE and ML brings to you, "Solution to
+        the Pandemic!" webinar. A collaborative event to ensure the health and
+        safety of our students, this webinar is aimed at creating awareness
+        regarding "Effects of Mucormycosis'' and “Importance of Vaccination”.
         <br />
-        Data Science is high in demand but low in supply of Data Scientists.
+        The webinar will be Presented by Dr. Amrut Arun Swami (MBBS, MD, DNM),
+        Asst. Prof. DVVPF Medical College.
         <br />
-        INOVACT is conducting a webinar on DATA SCIENCE!
+        He will be speaking about the recent challenges like mucormycosis post
+        recovery and the importance vaccination followed by devaluating the
+        myths surroumding COVID-19 vaccination.
         <br />
-        Understand the modern data science landscape and technical terms for a
-        data-driven world.
+        Perks of the webinar:
         <br />
-        Course deliverables:
+        1. How important the vaccine is to your body.
         <br />
-        1.WHY DATA SCIENCE?
+        2. Equip yourself with the right knowledge so that u can educate elders
+        at home.
         <br />
-        2.DATA SCIENCE OVERVIEW
+        E-Certificates will be provided for all participants!
         <br />
-        ->What is Data Science?
+        Date: 6th June 2021
         <br />
-        ->Prerequisites to learn data science
+        Time: 3pm-4pm
         <br />
-        ->What kind of projects we will deal with in data science
+        Kindly fill the
         <br />
-        3.TYPES OF DATA YOU DEAL WITH
-        <br />
-        4.OVERVIEW OF ALGORITHMS
-        <br />
-        5.OVERVIEW OF DATA SCIENCE CONCEPTS
-        <br />
-        6.DEMO OF DATA SCIENCE PROJECTS
-        <br />
-        Instructor : Mr.Girish G N<br />
-        Co-Founder at Ergonize
-        <br />
-        <a href="https://www.linkedin.com/in/girish-g-n-70a444188/">
-          <button className="btn-info">LinkedIn</button>
-        </a>
-        Date:- 05/06/2021 & 06/06/2021 <br />
-        Time:- 11:00AM- 1:00PM <br />
-        Webinar fee:- ₹99 ONLY <br />
-        Registration link:
-        <a href="https://forms.gle/AuQvjxag5S3YG8DN7">
-          <button className="btn-info">LINK</button>
-        </a>
-        <br />
-        Inovact will be offering Post-Webinar hands-on projects with mentorship,
-        absolutely for free!
-        <br />
-        E-Certificates will be provided for ALL participants
-        <br />
-        Contact: <br />
-        Rahul : 9742168308
-        <br />
-        Follow us on
-        <a
-          className="text-danger"
-          href="https://instagram.com/inovact__?utm_medium=copy_link"
-        >
-          {" "}
-          Instagram
+        <a href="https://forms.gle/D72F5Eb3oXFhoh9S6">
+          <button className="btn-info">FORM</button>
         </a>{" "}
+        to register :-
+        <br />
+        Meeting details will be e-mailed to your registered email id.
+        <br />
+        For queries contact: <br />
+        Vidhaan : +91 8105679934
+        <br />
+        Siri: +91 8310488854
       </p>
     ),
   },
+
+  // {
+  //   _id: "8",
+  //   name: "#RestoreEarth",
+  //   image: "/images/events/inov.jpeg",
+  //   description: (
+  //     <p>
+  //       Hello! Data Science is the fastest growing job and is predicted to
+  //       create 11.5 million jobs by 2026.
+  //       <br />
+  //       Data Science is high in demand but low in supply of Data Scientists.
+  //       <br />
+  //       INOVACT is conducting a webinar on DATA SCIENCE!
+  //       <br />
+  //       Understand the modern data science landscape and technical terms for a
+  //       data-driven world.
+  //       <br />
+  //       Course deliverables:
+  //       <br />
+  //       1.WHY DATA SCIENCE?
+  //       <br />
+  //       2.DATA SCIENCE OVERVIEW
+  //       <br />
+  //       ->What is Data Science?
+  //       <br />
+  //       ->Prerequisites to learn data science
+  //       <br />
+  //       ->What kind of projects we will deal with in data science
+  //       <br />
+  //       3.TYPES OF DATA YOU DEAL WITH
+  //       <br />
+  //       4.OVERVIEW OF ALGORITHMS
+  //       <br />
+  //       5.OVERVIEW OF DATA SCIENCE CONCEPTS
+  //       <br />
+  //       6.DEMO OF DATA SCIENCE PROJECTS
+  //       <br />
+  //       Instructor : Mr.Girish G N<br />
+  //       Co-Founder at Ergonize
+  //       <br />
+  //       <a href="https://www.linkedin.com/in/girish-g-n-70a444188/">
+  //         <button className="btn-info">LinkedIn</button>
+  //       </a>
+  //       Date:- 05/06/2021 & 06/06/2021 <br />
+  //       Time:- 11:00AM- 1:00PM <br />
+  //       Webinar fee:- ₹99 ONLY <br />
+  //       Registration link:
+  //       <a href="https://forms.gle/AuQvjxag5S3YG8DN7">
+  //         <button className="btn-info">LINK</button>
+  //       </a>
+  //       <br />
+  //       Inovact will be offering Post-Webinar hands-on projects with mentorship,
+  //       absolutely for free!
+  //       <br />
+  //       E-Certificates will be provided for ALL participants
+  //       <br />
+  //       Contact: <br />
+  //       Rahul : 9742168308
+  //       <br />
+  //       Follow us on
+  //       <a
+  //         className="text-danger"
+  //         href="https://instagram.com/inovact__?utm_medium=copy_link"
+  //       >
+  //         {" "}
+  //         Instagram
+  //       </a>{" "}
+  //     </p>
+  //   ),
+  // },
 
   {
     _id: "9",
@@ -367,78 +339,6 @@ const events = [
         Mahima - +91 8296596444
         <br />
         Mohit - +91 81471 97203
-      </p>
-    ),
-  },
-
-  {
-    _id: "10",
-    name: "INTERNSHIP PROGRAM",
-    image: "/images/events/ieee.jpg",
-    description: (
-      <p>
-        INTERNSHIP PROGRAM
-        <br />
-        Tequed Labs, a Nasscom incubated Edtech Company in collaboration with
-        BMSCE IEEE is bringing to you Industrial Skill Development and Summer
-        Internship Program 2021. What's it all about?
-        <br />
-        This is a 1 month internship program which includes a classroom course
-        for a week and 3 weeks of project.
-        <br />
-        The following domains are offered:
-        <br />
-        1. Internet of Things
-        <br />
-        2. Artificial Intelligence and Machine Learning
-        <br />
-        3. Full Stack Web Development
-        <br />
-        4. Cyber Security and Ethical Hacking
-        <br />
-        5. 3D Modelling
-        <br />
-        6. Mobile App Development
-        <br />
-        The program will commence soon after 2nd/4th/6th SEE Exams.
-        <br />
-        Each participant will receive a Certificate of Course completion and a
-        Certificate of Internship.
-        <br />
-        Best projects will also be awarded and top performers will receive Best
-        Intern Awards along with Job Opportunities.
-        <br />
-        Registration fee:
-        <br />
-        IEEE members : Rs. 3500/-
-        <br />
-        Non IEEE members : Rs. 4500/-
-        <br />
-        Group Discounts:
-        <br />
-        • 5 members: each member of the group gets Rs. 200/- off
-        <br />
-        • 10 members: each member of the group gets Rs. 500/- off
-        <br />
-        To avail group discounts, please contact, +918088219317
-        <br />
-        In addition to the afore mentioned benefits, IEEE members gain free
-        access to online courses worth Rs. 1500/-.
-        <br />
-        Book your seat by paying only Rs. 500/-. Remaining amount can be paid
-        later.
-        <br />
-        <br />
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQxhl1iv8G3pEofNlCru5i66y3QbgHu0FhhKiKjA5HXPf0DA/viewform">
-          <button className="btn-info">Register now!</button>
-        </a>{" "}
-        For queries contact,
-        <br />
-        Nitin: 8088219317
-        <br />
-        Samartha: 9738473489
-        <br />
-        Detailed information, fill the{" "}
       </p>
     ),
   },
