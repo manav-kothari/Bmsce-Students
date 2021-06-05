@@ -79,6 +79,7 @@ export const NavLogo = styled(LinkR)`
 
   @media screen and (max-width: 768px) {
     animation: flickermobile 3s infinite alternate;
+    padding: 0 15px;
   }
 
   @keyframes flickermobile {
