@@ -47,8 +47,7 @@ export const NavLogo = styled(LinkR)`
   align-items: center;
   font-weight: bold;
   text-decoration: none;
-  margin-left: 30px;
-  margin-right: 30px;
+
   color: #fff;
   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #5271ff,
     0 0 82px #5271ff, 0 0 92px #5271ff, 0 0 102px #5271ff, 0 0 151px #5271ff;
@@ -57,6 +56,7 @@ export const NavLogo = styled(LinkR)`
   font-family: "Times New Roman";
   animation: flicker 3s infinite alternate;
   color: #fff;
+  padding: 0 25px;
 
   /* Flickering animation */
   @keyframes flicker {
@@ -67,8 +67,7 @@ export const NavLogo = styled(LinkR)`
     53%,
     57%,
     100% {
-      text-shadow: 0 0 4px #fff, 0 0 11px #fff, 0 0 19px #fff, 0 0 40px #0fa,
-        0 0 80px #0fa, 0 0 90px #0fa, 0 0 100px #0fa, 0 0 150px #0fa;
+      text-shadow: 0 0 4px #fff, 0 0 11px #fff, 0 0 40px #0fa, 0 0 80px #0fa;
     }
 
     20%,
@@ -78,6 +77,27 @@ export const NavLogo = styled(LinkR)`
     }
   }
 
+  @media screen and (max-width: 768px) {
+    animation: flickermobile 3s infinite alternate;
+  }
+
+  @keyframes flickermobile {
+    0%,
+    18%,
+    22%,
+    25%,
+    53%,
+    57%,
+    100% {
+      text-shadow: 0 0 4px #fff, 0 0 11px #fff, 0 0 40px #0fa;
+    }
+
+    20%,
+    24%,
+    55% {
+      text-shadow: none;
+    }
+  }
   &:hover {
     transition: all 0.1s ease-in-out;
     background: #000;
