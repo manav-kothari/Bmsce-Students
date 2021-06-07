@@ -4,7 +4,20 @@ import { Card, Button } from "react-bootstrap";
 const CardComponent = ({ event }) => {
   return (
     <>
-      <Card className="my-2 p-2 mx-2  rounded cards">
+      <div
+        class="event-card"
+        style={{ backgroundImage: `url(${event.image})` }}
+      >
+        <div class="event-card-body">
+          <h2 class="event-card-title">{event.name}</h2>
+          <p>{event.description}</p>
+          <a href={`/event/${event._id}`} class="button">
+            Get Details
+          </a>
+        </div>
+      </div>
+
+      {/* <Card className="my-2 p-2 mx-2  rounded cards">
         <a style={{ color: "#000" }} href={`/event/${event._id}`}>
           <Card.Img
             className="card-img-top embed-responsive-item"
@@ -29,7 +42,7 @@ const CardComponent = ({ event }) => {
             </Button>
           </a>
         </Card.Body>
-      </Card>
+      </Card> */}
     </>
   );
 };

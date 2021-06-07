@@ -6,8 +6,8 @@ import events from "../events";
 
 const EventsHomeScreen = () => {
   return (
-    <>
-      <h1 className="text-center mt-2">Latest Events</h1>
+    <div className="page">
+      <h1 className="text-center heading ">Latest Events</h1>
       <Row>
         {events.map((event) => (
           <Col sm={12} md={6} lg={4} xl={4}>
@@ -15,7 +15,7 @@ const EventsHomeScreen = () => {
           </Col>
         ))}
       </Row>
-    </>
+    </div>
   );
 };
 

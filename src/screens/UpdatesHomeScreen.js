@@ -7,7 +7,7 @@ import updates from "../updates";
 const UpdatesHomeScreen = () => {
   return (
     <>
-      <h1 className="text-center mt-2">Latest Updates</h1>
+      <h1 className="text-center mt-2 heading">Latest Updates</h1>
       <Row>
         {updates.map((update) => (
           <Col sm={12} md={6} lg={4} xl={4}>

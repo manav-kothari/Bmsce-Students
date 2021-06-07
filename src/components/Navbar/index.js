@@ -14,7 +14,7 @@ import {
 const Navbar = ({ toggle }) => {
   return (
     <>
-      <Nav>
+      <Nav className="position-sticky">
         <NavbarContainer>
           <NavLogo to="/">BMSCE Students</NavLogo>
           <MobileIcon onClick={toggle}>

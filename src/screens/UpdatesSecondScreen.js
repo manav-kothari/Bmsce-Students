@@ -5,7 +5,7 @@ import { Card, Button } from "react-bootstrap";
 const UpdatesHomeScreen = () => {
   return (
     <>
-      <h1 className="text-center mt-2">Latest Updates</h1>
+      <h1 className="text-center mt- heading">Latest Updates</h1>
       <Row>
         <Col sm={12} md={6} lg={4} xl={4}>
           <Card className="my-2 p-2 mx-2  rounded cards">

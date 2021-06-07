@@ -28,6 +28,11 @@ export const Nav = styled.nav`
   align-items: center;
   /* padding: 0.5rem calc((100vw - 1000px) / 2); */
   z-index: 10;
+  /* position: fixed; */
+  left: 0;
+  top: 0;
+  right: 0;
+  width: 100%;
 `;
 
 export const NavbarContainer = styled.div`

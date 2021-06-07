@@ -4,13 +4,16 @@ import { Card, Button } from "react-bootstrap";
 const NoteCardComponent = ({ note }) => {
   return (
     <>
-      <Card className="my-2 p-2 mx-1  rounded cards">
+      <Card
+        style={{ background: "#121212", border: "#121212" }}
+        className="my-2 p-0 mx-1 note-card rounded cards"
+      >
         <a
           style={{ color: "#000" }}
           href={`https://mega.nz/folder/iNhVBIIT#TTe5Yseom0iAm-m01ABl8w`}
         >
           <Card.Img
-            className="note-card-img embed-responsive-item"
+            className="note-card-img-note embed-responsive-item card border-0"
             variant="top"
             src={note.image}
           />
@@ -21,7 +24,7 @@ const NoteCardComponent = ({ note }) => {
             href={`https://mega.nz/folder/iNhVBIIT#TTe5Yseom0iAm-m01ABl8w`}
           >
             <Card.Title>
-              <strong style={{ color: "#000" }} className="text-dark">
+              <strong style={{ color: "#fff" }} className="text-light">
                 {note.name}
               </strong>
             </Card.Title>

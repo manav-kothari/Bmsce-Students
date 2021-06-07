@@ -6,7 +6,7 @@ import updates from "../updates";
 const UpdateScreen = ({ match }) => {
   const update = updates.find((e) => e._id === match.params.id);
   return (
-    <>
+    <div className="page">
       <Link
         to={`/updates`}
         style={{ backgroundColor: "#000" }}
@@ -22,8 +22,8 @@ const UpdateScreen = ({ match }) => {
           alt={update.title}
         />
       </div>
-      <div className="p-4 text-center">{update.description}</div>
-    </>
+      <div className="p-4 text-center text-light">{update.description}</div>
+    </div>
   );
 };
 

@@ -6,11 +6,11 @@ import events from "../events";
 const EventScreen = ({ match }) => {
   const event = events.find((e) => e._id === match.params.id);
   return (
-    <>
+    <div className="event-detail">
       <Link
         to={`/events`}
-        style={{ backgroundColor: "#000" }}
-        className="btn btn-lg btn-dark my-3 mx-3"
+        style={{ backgroundColor: "#fff" }}
+        className="btn btn-lg btn-light my-3 mx-3"
       >
         GO BACK
       </Link>
@@ -22,8 +22,8 @@ const EventScreen = ({ match }) => {
           alt={event.name}
         />
       </div>
-      <div className="p-4 text-center">{event.description}</div>
-    </>
+      <div className="p-4 text-center text-light">{event.message}</div>
+    </div>
   );
 };
 
