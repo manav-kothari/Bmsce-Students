@@ -78,7 +78,7 @@ const events = [
   },
   {
     _id: "5",
-    name: "𝑯𝒂𝒄𝒌 𝑶’𝑯𝒐𝒍𝒊𝒄𝒔",
+    name: "Valorant Gaming Event",
     image: "/images/events/p5.gif",
     description:
       "Keep your knives sharpened and your ammo intact because this is the “Valorant Gaming Event”! 🎮",
