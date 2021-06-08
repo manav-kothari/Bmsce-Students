@@ -1,182 +1,184 @@
 const events = [
   {
     _id: "1",
-    name: "Solution to the Pandemic!",
-    image: "/images/events/covid.jpeg",
+    name: "𝑯𝒂𝒄𝒌 𝑶’𝑯𝒐𝒍𝒊𝒄𝒔",
+    image: "/images/events/p1.jpg",
     description:
-      "Department of CSE and ML brings to you, Solution to the Pandemic! webinar",
+      "In this event, participants solve problems and code as per given specifications.",
     message: (
       <p>
-        Hello BMSCIANS! ✨ Department of CSE and ML brings to you, "Solution to
-        the Pandemic!" webinar. A collaborative event to ensure the health and
-        safety of our students, this webinar is aimed at creating awareness
-        regarding "Effects of Mucormycosis'' and “Importance of Vaccination”.
+        | Protocol Day Events [1/6] | Here’s for you the first event,𝑯𝒂𝒄𝒌
+        𝑶’𝑯𝒐𝒍𝒊𝒄𝒔,where participants solve problems and code as per given
+        specifications. Grab this opportunity to showcase your hacking skills!
         <br />
-        The webinar will be Presented by Dr. Amrut Arun Swami (MBBS, MD, DNM),
-        Asst. Prof. DVVPF Medical College.
         <br />
-        He will be speaking about the recent challenges like mucormycosis post
-        recovery and the importance vaccination followed by devaluating the
-        myths surroumding COVID-19 vaccination.
-        <br />
-        Perks of the webinar:
-        <br />
-        1. How important the vaccine is to your body.
-        <br />
-        2. Equip yourself with the right knowledge so that u can educate elders
-        at home.
-        <br />
-        E-Certificates will be provided for all participants!
-        <br />
-        Date: 6th June 2021
-        <br />
-        Time: 3pm-4pm
-        <br />
-        Kindly fill the
-        <br />
-        <a href="https://forms.gle/D72F5Eb3oXFhoh9S6">
-          <button className="btn-info">FORM</button>
+        <a href="https://l.instagram.com/?u=https%3A%2F%2Fforms.gle%2Fhe1ceiAvAgJmytSH9&e=ATNCDUcxS2iy2R8AqtAPRn8To9WsexdOs6Af_-mbo5xnWVwkMP3dSxEPwkXSRuY2mUIp6Pyi2xwP4zBu2tXWlfAszE27Ih6pDGNKFQ&s=1">
+          <button className="btn-info">Register</button>
         </a>{" "}
-        to register :-
-        <br />
-        Meeting details will be e-mailed to your registered email id.
-        <br />
-        For queries contact: <br />
-        Vidhaan : +91 8105679934
-        <br />
-        Siri: +91 8310488854
-      </p>
-    ),
-  },
-
-  {
-    _id: "9",
-    name: "Yoga for Unity & Well-Being",
-    image: "/images/events/yoga.png",
-    description: `The ministry of AYUSH, Government of India in collaboration with United
-    Nations Information Center and the Association of Indian Universities is
-    conducting “Yoga for Unity & Well-Being”`,
-    message: (
-      <p>
-        Greetings from the NSS Unit of BMSCE!
-        <br />
-        The ministry of AYUSH, Government of India in collaboration with United
-        Nations Information Center and the Association of Indian Universities is
-        conducting “Yoga for Unity & Well-Being”- a 100 day virtual program .
-        <br />
-        The program shall include daily Yoga practical sessions, twice a week
-        knowledge sessions and Sunday meditation with acknowledged experts,
-        being offered for global well-being and unity to one and all.
-        <br />
-        Do join us and connect with your inner chakras from this workshop.
-        <br />
-        Join our what's app group :{" "}
-        <a href="https://chat.whatsapp.com/BkhnKteENVr6MrRr8AuQi9">
-          <button className="btn-success">WhatsApp Group</button>
-        </a>{" "}
-        <br />
-        For further details contact:
-        <br />
-        Mahima - +91 8296596444
-        <br />
-        Mohit - +91 81471 97203
       </p>
     ),
   },
   {
-    _id: "10",
-    name: "INTERNSHIP PROGRAM",
+    _id: "2",
+    name: "CRYPTO TALK",
+    image: "/images/events/p2.jpg",
+    description:
+      "The speaker for this workshop is Mr. Vineet Miskin who’s going to teach you about the basics of cryptocurrency",
+    message: (
+      <p>
+        The Ultimate Trading Guide.” The speaker for this workshop is Mr. Vineet
+        Miskin who’s going to teach you about the basics of cryptocurrency, the
+        understanding of the stock market, and trading in general.
+        <br />
+        <br />
+        <a href="https://l.instagram.com/?u=https%3A%2F%2Fforms.gle%2Fhe1ceiAvAgJmytSH9&e=ATNCDUcxS2iy2R8AqtAPRn8To9WsexdOs6Af_-mbo5xnWVwkMP3dSxEPwkXSRuY2mUIp6Pyi2xwP4zBu2tXWlfAszE27Ih6pDGNKFQ&s=1">
+          <button className="btn-info">Register</button>
+        </a>{" "}
+      </p>
+    ),
+  },
+  {
+    _id: "3",
+    name: "𝐁𝐨𝐭.𝐩𝐲🤖",
+    image: "/images/events/p3.jpg",
+    description:
+      "This event gives you the opportunity to make your own discord bot.",
+    message: (
+      <p>
+        Have you ever wondered how the groovy bot is able to play music or how
+        the MEE6 bot is able to automatically create custom commands? This event
+        “𝐁𝐨𝐭.𝐩𝐲🤖” gives you the opportunity to make your own discord bot.
+        <br />
+        <br />
+        <a href="https://l.instagram.com/?u=https%3A%2F%2Fforms.gle%2Fhe1ceiAvAgJmytSH9&e=ATNCDUcxS2iy2R8AqtAPRn8To9WsexdOs6Af_-mbo5xnWVwkMP3dSxEPwkXSRuY2mUIp6Pyi2xwP4zBu2tXWlfAszE27Ih6pDGNKFQ&s=1">
+          <button className="btn-info">Register</button>
+        </a>{" "}
+      </p>
+    ),
+  },
+  {
+    _id: "4",
+    name: "𝑬𝒔𝒐𝑺𝒍𝒂𝒏𝒈",
+    image: "/images/events/p4.jpg",
+    description:
+      "In this event, you will be given the code in an alien language (esoteric) which you would have to decode into “C language” format.",
+    message: (
+      <p>
+        If not, a fun event named “𝑬𝒔𝒐𝑺𝒍𝒂𝒏𝒈” awaits for you! In this event, you
+        will be given the code in an alien language (esoteric) which you would
+        have to decode into “C language” format. You’re challenged to test the
+        boundaries of computer programming languages!
+        <br />
+        <a href="https://l.instagram.com/?u=https%3A%2F%2Fforms.gle%2Fhe1ceiAvAgJmytSH9&e=ATNCDUcxS2iy2R8AqtAPRn8To9WsexdOs6Af_-mbo5xnWVwkMP3dSxEPwkXSRuY2mUIp6Pyi2xwP4zBu2tXWlfAszE27Ih6pDGNKFQ&s=1">
+          <button className="btn-info">Register</button>
+        </a>{" "}
+      </p>
+    ),
+  },
+  {
+    _id: "5",
+    name: "𝑯𝒂𝒄𝒌 𝑶’𝑯𝒐𝒍𝒊𝒄𝒔",
+    image: "/images/events/p5.gif",
+    description:
+      "Keep your knives sharpened and your ammo intact because this is the “Valorant Gaming Event”! 🎮",
+    message: (
+      <p>
+        Bored in the house? There’s something exciting coming up for you! Keep
+        your knives sharpened and your ammo intact because this is the “Valorant
+        Gaming Event”! 🎮 Enjoy few stress free hours! Happy Gaming :)
+        <br />
+        <a href="https://l.instagram.com/?u=https%3A%2F%2Fforms.gle%2Fhe1ceiAvAgJmytSH9&e=ATNCDUcxS2iy2R8AqtAPRn8To9WsexdOs6Af_-mbo5xnWVwkMP3dSxEPwkXSRuY2mUIp6Pyi2xwP4zBu2tXWlfAszE27Ih6pDGNKFQ&s=1">
+          <button className="btn-info">Register</button>
+        </a>{" "}
+      </p>
+    ),
+  },
+  {
+    _id: "6",
+    name: "𝑯𝒂𝒄𝒌 𝑶’𝑯𝒐𝒍𝒊𝒄𝒔",
     image: "/images/events/ieee.jpg",
-    description: `Tequed Labs, a Nasscom incubated Edtech Company in collaboration with
-    BMSCE IEEE is bringing to you Industrial Skill Development and Summer
-    Internship Program 2021.`,
+    description:
+      "You'll be taught how to set up a wallet, do transactions and interact with a smart contract.",
     message: (
       <p>
-        INTERNSHIP PROGRAM
+        BMSCE IEEE SB and BMSCE IEEE WIE bring to you a workshop Understanding
+        Block chain, Cryptocurrency and Smart contracts. What is it about?
+        Blockchain is buzzing technology which enables the existence of
+        cryptocurrencies which act as a medium of exchange. In this workshop,
+        you'll be taught how to set up a wallet, do transactions and interact
+        with a smart contract.
         <br />
-        Tequed Labs, a Nasscom incubated Edtech Company in collaboration with
-        BMSCE IEEE is bringing to you Industrial Skill Development and Summer
-        Internship Program 2021. What's it all about?
+        Date: 12th June, 2021
         <br />
-        This is a 1 month internship program which includes a classroom course
-        for a week and 3 weeks of project.
+        Time: 3PM to 7PM
         <br />
-        The following domains are offered:
+        Registration Fee:
         <br />
-        1. Internet of Things
+        IEEE students : Free
         <br />
-        2. Artificial Intelligence and Machine Learning
+        Non-IEEE students: Rs.50/-
         <br />
-        3. Full Stack Web Development
+        Payments to be made at rakshithamattuga@ybl / 8884767901. Send a
+        screenshot of your payment to 8884767901.
         <br />
-        4. Cyber Security and Ethical Hacking
-        <br />
-        5. 3D Modelling
-        <br />
-        6. Mobile App Development
-        <br />
-        The program will commence soon after 2nd/4th/6th SEE Exams.
-        <br />
-        Each participant will receive a Certificate of Course completion and a
-        Certificate of Internship.
-        <br />
-        Best projects will also be awarded and top performers will receive Best
-        Intern Awards along with Job Opportunities.
-        <br />
-        Registration fee:
-        <br />
-        IEEE members : Rs. 3500/-
-        <br />
-        Non IEEE members : Rs. 4500/-
-        <br />
-        Group Discounts:
-        <br />
-        • 5 members: each member of the group gets Rs. 200/- off
-        <br />
-        • 10 members: each member of the group gets Rs. 500/- off
-        <br />
-        To avail group discounts, please contact, +918088219317
-        <br />
-        In addition to the afore mentioned benefits, IEEE members gain free
-        access to online courses worth Rs. 1500/-.
-        <br />
-        Book your seat by paying only Rs. 500/-. Remaining amount can be paid
-        later.
-        <br />
-        <br />
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQxhl1iv8G3pEofNlCru5i66y3QbgHu0FhhKiKjA5HXPf0DA/viewform">
-          <button className="btn-info">Register now!</button>
+        Do not let go of this wonderful opportunity! Limited seats only. Hurry
+        up and{" "}
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwdayB_JZ1s_C4U1dxZXyXOmy5IPGOffRI4w-syBo0Si4q6w/viewform">
+          <button className="btn-info">Register</button>
         </a>{" "}
-        For queries contact,
         <br />
-        Nitin: 8088219317
+        For queries, contact:
         <br />
-        Samartha: 9738473489
+        Rakshitha S: 8884767901 <br />
+      </p>
+    ),
+  },
+  {
+    _id: "7",
+    name: "𝑯𝒂𝒄𝒌 𝑶’𝑯𝒐𝒍𝒊𝒄𝒔",
+    image: "/images/events/bull.jpg",
+    description:
+      "Get a chance to enhance your resume by gaining more knowledge about the the most important structural component of any automobile!!",
+    message: (
+      <p>
+        Have you ever wondered what it takes to design and build a chassis and
+        the numerous factors which go into the analysis of the same? 🤔 BULLZ
+        RACING - The automotive club of BMS College of Engineering,🏁🏎️ brings
+        to you a 3-day certification workshop on ”CHASSIS- Design & Analysis”
+        hosted by our team captain, chassis engineer - Sujith Diwakar
+        Participate and get a chance to enhance your resume by gaining more
+        knowledge about the the most important structural component of any
+        automobile!! When?
         <br />
-        Detailed information, fill the{" "}
+        17th to 19th June, 2021. 5:00pm (on all 3 days)
+        <br />
+        Flow of Events:
+        <br />
+        Day1 : Introduction
+        <br />
+        Day2 : Design
+        <br />
+        Day3 : Analysis
+        <br />
+        Certificates will be provided to all participants!! Registration Fee:
+        ₹100/- (inclusive for all 3 days) Please pay a total of ₹100/- to : +91
+        81235 76036 - Yuvaraj Badiger (PhonePe, GPay & PayTm) to confirm your
+        registration upload a screen shot of the payment confirmation in the
+        registration form.
+        <br />{" "}
+        <a href="https://forms.gle/3yGGVvnvHCJ7M5az7">
+          <button className="btn-info">Register</button>
+        </a>{" "}
+        <br />
+        Contact for more details:
+        <br />
+        Soumya : 7204541193
+        <br />
+        Yuvaraj : 8123576036
+        <br />
       </p>
     ),
   },
 ];
-
-//***** INOVACT *****/
-// {
-//   _id: "5",
-//   name: "Webinar on 'Machine Learning'",
-//   image: "/images/events/invoml.jpeg",
-//   description: (
-//     <p>
-//
-//       Follow us on
-//       <a
-//         className="text-danger"
-//         href="https://instagram.com/inovact__?utm_medium=copy_link"
-//       >
-//         {" "}
-//         Instagram
-//       </a>{" "}
-//     </p>
-//   ),
-// },
 
 export default events;

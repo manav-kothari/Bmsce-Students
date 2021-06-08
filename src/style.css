@@ -208,6 +208,8 @@ body,
 
 .button {
   cursor: pointer;
+  display: flex;
+  align-items: center;
   font-size: 0.75rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -221,6 +223,8 @@ body,
 
 .button:hover {
   background: white;
+  text-decoration: none;
+  color: black;
 }
 .event-card-title {
   position: relative;
