@@ -12,7 +12,7 @@ const events = [
         specifications. Grab this opportunity to showcase your hacking skills!
         <br />
         <br />
-        <a href="https://l.instagram.com/?u=https%3A%2F%2Fforms.gle%2Fhe1ceiAvAgJmytSH9&e=ATNCDUcxS2iy2R8AqtAPRn8To9WsexdOs6Af_-mbo5xnWVwkMP3dSxEPwkXSRuY2mUIp6Pyi2xwP4zBu2tXWlfAszE27Ih6pDGNKFQ&s=1">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqUOIsvrD48m34fq_dj0ilyLFm3ORpOYEmKlsLGXV8KQOu2A/viewform">
           <button className="btn-info">Register</button>
         </a>{" "}
       </p>
@@ -31,7 +31,7 @@ const events = [
         understanding of the stock market, and trading in general.
         <br />
         <br />
-        <a href="https://l.instagram.com/?u=https%3A%2F%2Fforms.gle%2Fhe1ceiAvAgJmytSH9&e=ATNCDUcxS2iy2R8AqtAPRn8To9WsexdOs6Af_-mbo5xnWVwkMP3dSxEPwkXSRuY2mUIp6Pyi2xwP4zBu2tXWlfAszE27Ih6pDGNKFQ&s=1">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqUOIsvrD48m34fq_dj0ilyLFm3ORpOYEmKlsLGXV8KQOu2A/viewform">
           <button className="btn-info">Register</button>
         </a>{" "}
       </p>
@@ -50,7 +50,7 @@ const events = [
         “𝐁𝐨𝐭.𝐩𝐲🤖” gives you the opportunity to make your own discord bot.
         <br />
         <br />
-        <a href="https://l.instagram.com/?u=https%3A%2F%2Fforms.gle%2Fhe1ceiAvAgJmytSH9&e=ATNCDUcxS2iy2R8AqtAPRn8To9WsexdOs6Af_-mbo5xnWVwkMP3dSxEPwkXSRuY2mUIp6Pyi2xwP4zBu2tXWlfAszE27Ih6pDGNKFQ&s=1">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqUOIsvrD48m34fq_dj0ilyLFm3ORpOYEmKlsLGXV8KQOu2A/viewform">
           <button className="btn-info">Register</button>
         </a>{" "}
       </p>
@@ -69,7 +69,8 @@ const events = [
         have to decode into “C language” format. You’re challenged to test the
         boundaries of computer programming languages!
         <br />
-        <a href="https://l.instagram.com/?u=https%3A%2F%2Fforms.gle%2Fhe1ceiAvAgJmytSH9&e=ATNCDUcxS2iy2R8AqtAPRn8To9WsexdOs6Af_-mbo5xnWVwkMP3dSxEPwkXSRuY2mUIp6Pyi2xwP4zBu2tXWlfAszE27Ih6pDGNKFQ&s=1">
+        <br />
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqUOIsvrD48m34fq_dj0ilyLFm3ORpOYEmKlsLGXV8KQOu2A/viewform">
           <button className="btn-info">Register</button>
         </a>{" "}
       </p>
@@ -87,7 +88,8 @@ const events = [
         your knives sharpened and your ammo intact because this is the “Valorant
         Gaming Event”! 🎮 Enjoy few stress free hours! Happy Gaming :)
         <br />
-        <a href="https://l.instagram.com/?u=https%3A%2F%2Fforms.gle%2Fhe1ceiAvAgJmytSH9&e=ATNCDUcxS2iy2R8AqtAPRn8To9WsexdOs6Af_-mbo5xnWVwkMP3dSxEPwkXSRuY2mUIp6Pyi2xwP4zBu2tXWlfAszE27Ih6pDGNKFQ&s=1">
+        <br />
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqUOIsvrD48m34fq_dj0ilyLFm3ORpOYEmKlsLGXV8KQOu2A/viewform">
           <button className="btn-info">Register</button>
         </a>{" "}
       </p>
