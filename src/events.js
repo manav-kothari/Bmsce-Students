@@ -97,7 +97,7 @@ const events = [
   },
   {
     _id: "6",
-    name: "Understanding Blockchain",
+    name: "Understanding Block chain, Cryptocurrency and Smart contracts",
     image: "/images/events/ieee.jpg",
     description:
       "You'll be taught how to set up a wallet, do transactions and interact with a smart contract.",
