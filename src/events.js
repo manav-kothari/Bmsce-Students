@@ -7,8 +7,8 @@ const events = [
       "In this event, participants solve problems and code as per given specifications.",
     message: (
       <p>
-        | Protocol Day Events [1/6] | Here’s for you the first event,𝑯𝒂𝒄𝒌
-        𝑶’𝑯𝒐𝒍𝒊𝒄𝒔,where participants solve problems and code as per given
+        | Protocol Day Events [1/6] | Here’s for you the first event, 𝑯𝒂𝒄𝒌
+        𝑶’𝑯𝒐𝒍𝒊𝒄𝒔, where participants solve problems and code as per given
         specifications. Grab this opportunity to showcase your hacking skills!
         <br />
         <br />
@@ -97,7 +97,7 @@ const events = [
   },
   {
     _id: "6",
-    name: "𝑯𝒂𝒄𝒌 𝑶’𝑯𝒐𝒍𝒊𝒄𝒔",
+    name: "Understanding Blockchain",
     image: "/images/events/ieee.jpg",
     description:
       "You'll be taught how to set up a wallet, do transactions and interact with a smart contract.",
@@ -137,7 +137,7 @@ const events = [
   },
   {
     _id: "7",
-    name: "𝑯𝒂𝒄𝒌 𝑶’𝑯𝒐𝒍𝒊𝒄𝒔",
+    name: "CHASSIS- Design & Analysis",
     image: "/images/events/bull.jpg",
     description:
       "Get a chance to enhance your resume by gaining more knowledge about the the most important structural component of any automobile!!",
